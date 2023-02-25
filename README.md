@@ -1,7 +1,3 @@
-# Creating-Synthetic-Seismic-from-Coalmines-Cross-sections-
-Using interpreted geological cross-sections to generate synthetic seismic sections.
-
-
 **Synthetic Seismic Modelling of Geological Interpretations**
 ==============================================
 **Using Coalmines Subsurface Cross-sections from**
