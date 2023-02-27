@@ -76,3 +76,5 @@ The work contained in this repositories contains work conducted during a PhD stu
 ![NERC-CDT](https://nerc-cdt-oil-and-gas.ac.uk/wp-content/uploads/news/2015-news-NERC-funding.jpg)
 
 ![NERC](https://auracdt.hull.ac.uk/wp-content/uploads/2019/11/UKRI_NER_Council-Logo_Horiz-RGB.png)
+
+![University of Aberdeen](https://pbs.twimg.com/profile_images/1572172791801061377/UPSWmPyN_400x400.jpg)
