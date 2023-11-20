@@ -1,0 +1,83 @@
+﻿FaultName,Name,Distance,Displacement,HorizonName,Uncertainty,ProfilePatterns,Section,Gradients,Fault_Size
+SA2_M4_Sc1_F1,f1,0,0,Hu,Secured,Bell,Upper,0.15,Medium
+SA2_M4_Sc1_F1,f1,80,12,Ka,Secured,Bell,Upper,0.453703704,Medium
+SA2_M4_Sc1_F1,f1,296,110,Er,Proven,Bell,Upper,0.017421603,Medium
+SA2_M4_Sc1_F1,f1,583,115,Pr,Secured,Bell,Upper,-0.06122449,Medium
+SA2_M4_Sc1_F1,f1,632,112,Di,Assumed,Bell,Mid,0.08988764,Medium
+SA2_M4_Sc1_F1,f1,721,120,So,Assumed,Bell,Lower,-0.133144476,Medium
+SA2_M4_Sc1_F1,f1,1074,73,Gi5,Assumed,Bell,Lower,-0.132653061,Medium
+SA2_M4_Sc1_F1,f1,1270,47,Fi,Assumed,Bell,Lower,-0.116022099,Medium
+SA2_M4_Sc1_F1,f1,1451,26,Mg,Assumed,Bell,Lower,-0.4,Medium
+SA2_M4_Sc1_F1,f1,1516,0,Sb,Assumed,Bell,Lower,0,Medium
+SA2_M4_Sc1_F2,f2,0,0,F,Proven,Triangle,Upper,0.513986014,Medium
+SA2_M4_Sc1_F2,f2,286,147,Zo2,Proven,Triangle,Upper,0.469026549,Medium
+SA2_M4_Sc1_F2,f2,512,253,Zo8,Proven,Triangle,Upper,0.254901961,Medium
+SA2_M4_Sc1_F2,f2,920,357,Gu,Proven,Triangle,Upper,-0.45890411,Medium
+SA2_M4_Sc1_F2,f2,1066,290,Ma,Secured,Triangle,Mid,-0.5,Medium
+SA2_M4_Sc1_F2,f2,1192,227,Hu,Secured,Triangle,Lower,-0.381974249,Medium
+SA2_M4_Sc1_F2,f2,1425,138,Ka,Assumed,Triangle,Lower,-0.593103448,Medium
+SA2_M4_Sc1_F2,f2,1570,52,Er,Assumed,Triangle,Lower,-0.416,Medium
+SA2_M4_Sc1_F2,f2,1695,0,Pr,Assumed,Triangle,Lower,0,Medium
+SA2_M4_Sc1_F3,f3,0,0,F,Proven,Trapezoid,Upper,6.807692308,Medium
+SA2_M4_Sc1_F3,f3,52,354,Zo2,Proven,Trapezoid,Upper,0.344827586,Medium
+SA2_M4_Sc1_F3,f3,110,374,Zo8,Secured,Trapezoid,Upper,-0.017391304,Medium
+SA2_M4_Sc1_F3,f3,340,370,Gu,Secured,Trapezoid,Upper,-0.046296296,Medium
+SA2_M4_Sc1_F3,f3,448,365,Ma,Secured,Trapezoid,Upper,0.438596491,Medium
+SA2_M4_Sc1_F3,f3,505,390,Hu,Assumed,Trapezoid,Mid,0.023696682,Medium
+SA2_M4_Sc1_F3,f3,716,395,Ka,Assumed,Trapezoid,Mid,0.088709677,Medium
+SA2_M4_Sc1_F3,f3,840,406,Er,Assumed,Trapezoid,Lower,-0.030508475,Medium
+SA2_M4_Sc1_F3,f3,1135,397,Pr,Assumed,Trapezoid,Lower,-0.09569378,Medium
+SA2_M4_Sc1_F3,f3,1344,377,Di,Assumed,Trapezoid,Lower,-0.103092784,Medium
+SA2_M4_Sc1_F3,f3,1538,357,So,Assumed,Trapezoid,Lower,-0.804054054,Medium
+SA2_M4_Sc1_F3,f3,1982,0,Fi,Assumed,Trapezoid,Lower,0,Medium
+SA2_M4_Sc1_F4,f4,0,0,F,Secured,Triangle,Upper,0.142857143,Small
+SA2_M4_Sc1_F4,f4,35,5,Zo2,Secured,Triangle,Upper,0.083333333,Small
+SA2_M4_Sc1_F4,f4,95,10,Zo8,Proven,Triangle,Upper,0.317460317,Small
+SA2_M4_Sc1_F4,f4,158,30,Gu,Secured,Triangle,Mid,0.270833333,Small
+SA2_M4_Sc1_F4,f4,254,56,Ma,Secured,Triangle,Mid,-0.17,Small
+SA2_M4_Sc1_F4,f4,454,22,Hu,Secured,Triangle,Lower,-0.046153846,Small
+SA2_M4_Sc1_F4,f4,584,16,Ka,Secured,Triangle,Lower,-0.128,Small
+SA2_M4_Sc1_F4,f4,709,0,Er,Secured,Triangle,Lower,0,Small
+SA2_M4_Sc1_F5,f5,0,0,Ma,Proven,Triangle,Upper,0.066666667,Small
+SA2_M4_Sc1_F5,f5,60,4,Hu,Proven,Triangle,Upper,0.081818182,Small
+SA2_M4_Sc1_F5,f5,280,22,Ka,Secured,Triangle,Mid,-0.157407407,Small
+SA2_M4_Sc1_F5,f5,388,5,Er,Secured,Triangle,Lower,-0.04587156,Small
+SA2_M4_Sc1_F5,f5,497,0,Pr,Secured,Triangle,Lower,0,Small
+SA2_M4_Sc1_F6,f6,0,0,Zo8,Proven,Trapezoid,Upper,0.654135338,Small
+SA2_M4_Sc1_F6,f6,133,87,Gu,Proven,Trapezoid,Upper,0.081081081,Small
+SA2_M4_Sc1_F6,f6,318,102,Ma,Proven,Trapezoid,Mid,-0.142857143,Small
+SA2_M4_Sc1_F6,f6,472,80,Hu,Secured,Trapezoid,Mid,-0.048245614,Small
+SA2_M4_Sc1_F6,f6,700,69,Ka,Secured,Trapezoid,Lower,-0.958333333,Small
+SA2_M4_Sc1_F6,f6,772,0,Er,Secured,Trapezoid,Lower,0,Small
+SA2_M4_Sc1_F7,f7,0,0,Ka,Proven,Negative Skewed,Upper,0.702,Large
+SA2_M4_Sc1_F7,f7,500,351,Er,Proven,Negative Skewed,Upper,0.929012346,Large
+SA2_M4_Sc1_F7,f7,824,652,Pr,Proven,Negative Skewed,Upper,0.418454936,Large
+SA2_M4_Sc1_F7,f7,1290,847,Di,Proven,Negative Skewed,Upper,0.492405063,Large
+SA2_M4_Sc1_F7,f7,2080,1236,So,Secured,Negative Skewed,Mid,0.769230769,Large
+SA2_M4_Sc1_F7,f7,2340,1436,Gi5,Secured,Negative Skewed,Lower,-0.210810811,Large
+SA2_M4_Sc1_F7,f7,2525,1397,Fi,Secured,Negative Skewed,Lower,-0.534693878,Large
+SA2_M4_Sc1_F7,f7,3260,1004,Mg,Assumed,Negative Skewed,Lower,-17.61403509,Large
+SA2_M4_Sc1_F7,f7,3317,0,Sb,Assumed,Negative Skewed,Lower,0,Large
+SA2_M4_Sc1_F8,f8,0,0,Er,Proven,Triangle,Upper,0.866666667,Small
+SA2_M4_Sc1_F8,f8,90,78,Pr,Proven,Triangle,Mid,-0.361111111,Small
+SA2_M4_Sc1_F8,f8,198,39,Di,Secured,Triangle,Mid,-0.184210526,Small
+SA2_M4_Sc1_F8,f8,274,25,So,Secured,Triangle,Lower,-0.109649123,Small
+SA2_M4_Sc1_F8,f8,502,0,Gi5,Secured,Triangle,Lower,0,Small
+SA2_M4_Sc2_F9,f9,0,0,Ka,Secured,Semi-Circle,Upper,1.890410959,Large
+SA2_M4_Sc2_F9,f9,73,138,Er,Secured,Semi-Circle,Upper,2.515151515,Large
+SA2_M4_Sc2_F9,f9,238,553,Pr,Secured,Semi-Circle,Upper,0.724077329,Large
+SA2_M4_Sc2_F9,f9,807,965,Di,Proven,Semi-Circle,Upper,-0.394736842,Large
+SA2_M4_Sc2_F9,f9,1111,845,So,Proven,Semi-Circle,Mid,0.327014218,Large
+SA2_M4_Sc2_F9,f9,1322,914,Gi5,Assumed,Semi-Circle,Mid,-0.363117871,Large
+SA2_M4_Sc2_F9,f9,1848,723,Fi,Assumed,Semi-Circle,Lower,-0.53038674,Large
+SA2_M4_Sc2_F9,f9,2210,531,Mg,Assumed,Semi-Circle,Lower,-1.092592593,Large
+SA2_M4_Sc2_F9,f9,2696,0,Sb,Assumed,Semi-Circle,Lower,0,Large
+SA2_M4_Sc3_F9,f10,0,0,Ka,Secured,Negative Skewed,Upper,1.933333333,Large
+SA2_M4_Sc3_F9,f10,75,145,Er,Secured,Negative Skewed,Upper,1.283950617,Large
+SA2_M4_Sc3_F9,f10,237,353,Pr,Secured,Negative Skewed,Upper,0.898128898,Large
+SA2_M4_Sc3_F9,f10,718,785,Di,Proven,Negative Skewed,Upper,0.540740741,Large
+SA2_M4_Sc3_F9,f10,853,858,So,Proven,Negative Skewed,Mid,0.932624113,Large
+SA2_M4_Sc3_F9,f10,1135,1121,Gi5,Assumed,Negative Skewed,Mid,0.266509434,Large
+SA2_M4_Sc3_F9,f10,1559,1234,Fi,Assumed,Negative Skewed,Lower,-0.167938931,Large
+SA2_M4_Sc3_F9,f10,2345,1102,Mg,Assumed,Negative Skewed,Lower,-2.510250569,Large
+SA2_M4_Sc3_F9,f10,2784,0,Sb,Assumed,Negative Skewed,Lower,0,Large

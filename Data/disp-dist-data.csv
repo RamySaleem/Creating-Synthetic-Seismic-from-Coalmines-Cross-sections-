@@ -1,0 +1,849 @@
+FaultName,Name,Distance,Displacement,HorizonName,Uncertainty,ProfilePatterns,Section,Gradients,Fault_Size
+Sc_8_F_8,f1,0,0,F-2,Proven,Positive Skewed,Upper,2.913157895,Medium
+Sc_8_F_8,f1,114,332.1,Zo2,Secured,Positive Skewed,Upper,0.878015162,Medium
+Sc_8_F_8,f1,259.1,459.5,Zo8,Secured,Positive Skewed,Mid,-0.504277353,Medium
+Sc_8_F_8,f1,925.4,123.5,Gu,Secured,Positive Skewed,Mid,0.015397083,Medium
+Sc_8_F_8,f1,1048.8,125.4,Ma,Secured,Positive Skewed,Lower,-0.611216131,Medium
+Sc_8_F_8,f1,1207.5,28.4,Hu,Secured,Positive Skewed,Lower,-1.42,Medium
+Sc_8_F_8,f1,1227.5,0,Ka,Secured,Positive Skewed,Lower,0,Medium
+Sc_8_F_10,f2,0,0,Zo8,Secured,Trapezoid,Upper,0.273495773,Small
+Sc_8_F_10,f2,201.1,55,Gu,Secured,Trapezoid,Upper,-0.026648901,Small
+Sc_8_F_10,f2,351.2,51,Ma,Secured,Trapezoid,Upper,0.013024602,Small
+Sc_8_F_10,f2,489.4,52.8,Hu,Secured,Trapezoid,Mid,-0.320027529,Small
+Sc_8_F_10,f2,634.7,6.3,Ka,Secured,Trapezoid,Lower,-0.091514143,Small
+Sc_8_F_10,f2,694.8,0.8,Er,Assumed,Trapezoid,Lower,-0.078431373,Small
+Sc_8_F_10,f2,705,0,Pr,Assumed,Trapezoid,Lower,0,Small
+Sc_8_F_10a,f3,0,0,Gu,Secured,Triangle,Upper,1.826086957,Small
+Sc_8_F_10a,f3,11.5,21,Ma,Secured,Triangle,Upper,0.230101302,Small
+Sc_8_F_10a,f3,149.7,52.8,Hu,Secured,Triangle,Mid,-0.320027529,Small
+Sc_8_F_10a,f3,295,6.3,Ka,Secured,Triangle,Lower,-0.091703057,Small
+Sc_8_F_10a,f3,363.7,0,Er,Secured,Triangle,Lower,0,Small
+Sc_8_F10_F8,f4,0,0,F,Proven,Positive Skewed,Upper,2.913157895,Medium
+Sc_8_F10_F8,f4,114,332.1,Zo2,Proven,Positive Skewed,Upper,0.878015162,Medium
+Sc_8_F10_F8,f4,259.1,459.5,Zo8,Proven,Positive Skewed,Mid,-0.504277353,Medium
+Sc_8_F10_F8,f4,925.4,123.5,Gu,Secured,Positive Skewed,Mid,0.428687196,Medium
+Sc_8_F10_F8,f4,1048.8,176.4,Ma,Proven,Positive Skewed,Lower,-0.599873976,Medium
+Sc_8_F10_F8,f4,1207.5,81.2,Hu,Secured,Positive Skewed,Lower,-10.82666667,Medium
+Sc_8_F10_F8,f4,1215,0,Ka,Secured,Positive Skewed,Lower,0,Medium
+Sc_1_F_9,f5,0,0,N,Proven,Trapezoid,Upper,0.632570659,Medium
+Sc_1_F_9,f5,148.6,94,F,Proven,Trapezoid,Upper,0.043048469,Medium
+Sc_1_F_9,f5,462.2,107.5,Zo2,Proven,Trapezoid,Upper,-0.07295174,Medium
+Sc_1_F_9,f5,640.4,94.5,Zo8,Proven,Trapezoid,Upper,-0.076504481,Medium
+Sc_1_F_9,f5,1265.2,46.7,Gu,Proven,Trapezoid,Mid,0.009820913,Medium
+Sc_1_F_9,f5,1438.3,48.4,Ma,Secured,Trapezoid,Mid,-0.163141994,Medium
+Sc_1_F_9,f5,1570.7,26.8,Hu,Secured,Trapezoid,Lower,0.113532691,Medium
+Sc_1_F_9,f5,1768,49.2,Ka,Assumed,Trapezoid,Lower,0.121973929,Medium
+Sc_1_F_9,f5,1982.8,75.4,Er,Assumed,Trapezoid,Lower,-3.927083333,Medium
+Sc_1_F_9,f5,2002,0,Pr,Secured,Trapezoid,Lower,0,Medium
+Sc_1_F_28,f6,0,0,F-2,Proven,Negative Skewed,Upper,0.397524072,Medium
+Sc_1_F_28,f6,72.7,28.9,Zo2,Secured,Negative Skewed,Upper,-0.042635659,Medium
+Sc_1_F_28,f6,201.7,23.4,Zo8,Secured,Negative Skewed,Upper,-0.0123199,Medium
+Sc_1_F_28,f6,680.6,17.5,Gu,Secured,Negative Skewed,Upper,0.065843621,Medium
+Sc_1_F_28,f6,802.1,25.5,Ma,Secured,Negative Skewed,Upper,0.057309942,Medium
+Sc_1_F_28,f6,887.6,30.4,Hu,Secured,Negative Skewed,Mid,0.051311953,Medium
+Sc_1_F_28,f6,1059.1,39.2,Ka,Secured,Negative Skewed,Mid,-0.065294535,Medium
+Sc_1_F_28,f6,1200,30,Er,Assumed,Negative Skewed,Lower,-0.1,Medium
+Sc_1_F_28,f6,1300,20,Pr,Assumed,Negative Skewed,Lower,-0.1,Medium
+Sc_1_F_28,f6,1400,10,Di,Assumed,Negative Skewed,Lower,-0.1,Medium
+Sc_1_F_28,f6,1500,0,So,Assumed,Negative Skewed,Lower,0,Medium
+Sc_8_F_2,f7,0,0,Hu-1,Secured,Overlap,Upper,0.291666667,Small
+Sc_8_F_2,f7,7.2,2.1,Hu,Secured,Overlap,Upper,0.457085828,Small
+Sc_8_F_2,f7,157.5,70.8,Ka,Secured,Overlap,Mid,-0.254660849,Small
+Sc_8_F_2,f7,409.6,6.6,Er,Secured,Overlap,Mid,0.007681229,Small
+Sc_8_F_2,f7,617.9,8.2,Pr,Secured,Overlap,Lower,0.425503356,Small
+Sc_8_F_2,f7,692.4,39.9,Di,Secured,Overlap,Lower,0.09939759,Small
+Sc_8_F_2,f7,792,49.8,So,Secured,Overlap,Lower,-6.225,Small
+Sc_8_F_2,f7,800,0,Pl,Secured,Overlap,Lower,0,Small
+Sc_8_F_3,f8,0,0,Kr-2,Secured,Triangle,Upper,1.468571429,Small
+Sc_8_F_3,f8,87.5,128.5,Mg,Secured,Triangle,Mid,-0.292674731,Small
+Sc_8_F_3,f8,385.1,41.4,Sb,Secured,Triangle,Lower,-8.448979592,Small
+Sc_8_F_3,f8,390,0,Hf,Assumed,Triangle,Lower,0,Small
+Sc_8_F_4,f9,0,0,Kr-2,Secured,Trapezoid,Upper,0.346101603,Medium
+Sc_8_F_4,f9,368.1,127.4,Mg,Secured,Trapezoid,Mid,-0.009999401,Medium
+Sc_8_F_4,f9,2038.2,110.7,Sb,Secured,Trapezoid,Lower,-16.27941176,Medium
+Sc_8_F_4,f9,2045,0,Hf,Secured,Trapezoid,Lower,0,Medium
+Sc_8_F_5,f10,0,0,Zo8,Proven,Trapezoid,Upper,0.228187919,Small
+Sc_8_F_5,f10,29.8,6.8,La,Secured,Trapezoid,Upper,0.025275899,Small
+Sc_8_F_5,f10,310.7,13.9,Gu,Secured,Trapezoid,Lower,-3.23255814,Small
+Sc_8_F_5,f10,315,0,Ma,Assumed,Trapezoid,Lower,0,Small
+Sc_8_F_6,f11,0,0,Zo2,Assumed,Trapezoid,Upper,1.649805447,Small
+Sc_8_F_6,f11,25.7,42.4,Zo8,Secured,Trapezoid,Mid,-0.009452412,Small
+Sc_8_F_6,f11,332.5,39.5,La,Secured,Trapezoid,Lower,-4.157894737,Small
+Sc_8_F_6,f11,342,0,Gu,Secured,Trapezoid,Lower,0,Small
+Sc_8_F_7,f12,0,0,Zo2,Proven,Overlap,Upper,0.176026823,Small
+Sc_8_F_7,f12,238.6,42,Zo8,Proven,Overlap,Upper,0.103960396,Small
+Sc_8_F_7,f12,561.8,75.6,La,Secured,Overlap,Mid,-0.292942743,Small
+Sc_8_F_7,f12,787.1,9.6,Gu,Assumed,Overlap,Lower,0.156521739,Small
+Sc_8_F_7,f12,856.1,20.4,Ma,Secured,Overlap,Lower,0.161616162,Small
+Sc_8_F_7,f12,945.2,34.8,Hu,Assumed,Overlap,Lower,-2.351351351,Small
+Sc_8_F_7,f12,960,0,Ka,Assumed,Overlap,Lower,0,Medium
+Sc_8_F_8a,f13,0,0,Gu,Proven,Positive Skewed,Upper,2.862931034,Medium
+Sc_8_F_8a,f13,116,332.1,Zo2,Proven,Positive Skewed,Mid,0.816981132,Medium
+Sc_8_F_8a,f13,275,462,Zo8,Proven,Positive Skewed,Mid,-0.520448954,Medium
+Sc_8_F_8a,f13,925.4,123.5,Gu,Proven,Positive Skewed,Lower,0.014115899,Medium
+Sc_8_F_8a,f13,1060,125.4,Ma,Secured,Positive Skewed,Lower,-0.561842105,Medium
+Sc_8_F_8a,f13,1212,40,Hu,Secured,Positive Skewed,Lower,-8,Medium
+Sc_8_F_8a,f13,1217,0,Ka,Secured,Positive Skewed,Lower,0,Medium
+Sc_8_F_9,f14,0,0,F,Proven,Trapezoid,Upper,0.141675978,Medium
+Sc_8_F_9,f14,447.5,63.4,Zo2,Proven,Trapezoid,Upper,-0.00240616,Medium
+Sc_8_F_9,f14,863.1,62.4,Zo8,Proven,Trapezoid,Mid,-0.063065977,Medium
+Sc_8_F_9,f14,1172.3,42.9,La,Proven,Trapezoid,Lower,-0.14911366,Medium
+Sc_8_F_9,f14,1460,0,Gu,Secured,Trapezoid,Lower,0,Medium
+Sc_8_F_10b,f15,0,0,La,Proven,Trapezoid,Upper,0.459183673,Small
+Sc_8_F_10b,f15,98,45,Gu,Proven,Trapezoid,Upper,0.027777778,Small
+Sc_8_F_10b,f15,278,50,Ma,Proven,Trapezoid,Mid,0.02247191,Small
+Sc_8_F_10b,f15,456,54,Hu,Secured,Trapezoid,Mid,-0.311688312,Small
+Sc_8_F_10b,f15,610,6,Ka,Assumed,Trapezoid,Lower,-0.054545455,Small
+Sc_8_F_10b,f15,720,0,Er,Assumed,Trapezoid,Lower,0,Small
+Sc_8_F_11,f16,0,0,Ma,Secured,Trapezoid,Upper,0.416833667,Small
+Sc_8_F_11,f16,49.9,20.8,Hu,Secured,Trapezoid,Mid,-0.025,Small
+Sc_8_F_11,f16,189.9,17.3,Ka,Assumed,Trapezoid,Mid,-0.02584493,Small
+Sc_8_F_11,f16,441.4,10.8,Er,Assumed,Trapezoid,Lower,-0.187175043,Small
+Sc_8_F_11,f16,499.1,0,Pr,Assumed,Trapezoid,Lower,0,Small
+Sc_8_F_12,f17,0,0,Gu,Assumed,Triangle,Upper,0.128664495,Small
+Sc_8_F_12,f17,61.4,7.9,Ma,Assumed,Triangle,Mid,0.284296029,Small
+Sc_8_F_12,f17,172.2,39.4,Hu,Assumed,Triangle,Mid,-2.213483146,Small
+Sc_8_F_12,f17,190,0,Ka,Assumed,Triangle,Lower,0,Small
+Sc_8_F_15,f18,0,0,F-2,Assumed,Triangle,Upper,0.157988694,Small
+Sc_8_F_15,f18,336.1,53.1,Zo2,Assumed,Triangle,Mid,-0.129367328,Small
+Sc_8_F_15,f18,547.9,25.7,Zo8,Assumed,Triangle,Lower,-3.61971831,Small
+Sc_8_F_15,f18,555,0,La,Assumed,Triangle,Lower,0,Small
+Sc_8_F_10c,f19,0,0,Gu,Secured,Triangle,Upper,1.826086957,Small
+Sc_8_F_10c,f19,11.5,21,Ma,Secured,Triangle,Upper,0.230101302,Small
+Sc_8_F_10c,f19,149.7,52.8,Hu,Assumed,Triangle,Mid,-0.320027529,Small
+Sc_8_F_10c,f19,295,6.3,Ka,Assumed,Triangle,Lower,-0.091703057,Small
+Sc_8_F_10c,f19,363.7,0,Er,Assumed,Triangle,Lower,0,Small
+Sc_1_F_9a,f20,120,0,N,Assumed,Positive Skewed,Upper,3.286713287,Medium
+Sc_1_F_9a,f20,148.6,94,F,Secured,Positive Skewed,Upper,0.043048469,Medium
+Sc_1_F_9a,f20,462.2,107.5,Zo2,Secured,Positive Skewed,Mid,-0.07295174,Medium
+Sc_1_F_9a,f20,640.4,94.5,Zo8,Secured,Positive Skewed,Mid,-0.076504481,Medium
+Sc_1_F_9a,f20,1265.2,46.7,Gu,Secured,Positive Skewed,Lower,0.009820913,Medium
+Sc_1_F_9a,f20,1438.3,48.4,Ma,Assumed,Positive Skewed,Lower,-0.163141994,Medium
+Sc_1_F_9a,f20,1570.7,26.8,Hu,Secured,Positive Skewed,Lower,-0.075012671,Medium
+Sc_1_F_9a,f20,1768,12,Ka,Secured,Positive Skewed,Lower,-0.090909091,Medium
+Sc_1_F_9a,f20,1900,0,Er,Secured,Positive Skewed,Lower,0,Medium
+Sc_4_F_8,f21,0,0,La,Secured,Overlap,Upper,0.498853211,Small
+Sc_4_F_8,f21,87.2,43.5,Gu,Secured,Overlap,Mid,-0.312834225,Small
+Sc_4_F_8,f21,162,20.1,Ma,Assumed,Overlap,Lower,0.040622299,Small
+Sc_4_F_8,f21,277.7,24.8,Hu,Secured,Overlap,Lower,-0.238921002,Small
+Sc_4_F_8,f21,381.5,0,Ka,Secured,Overlap,Lower,0,Small
+Sc_5_F_8,f22,0,0,La,Proven,Triangle,Upper,0.238640562,Small
+Sc_5_F_8,f22,270.7,64.6,Gu,Proven,Triangle,Mid,-0.158238173,Small
+Sc_5_F_8,f22,515.9,25.8,Ma,Secured,Triangle,Mid,-0.213938412,Small
+Sc_5_F_8,f22,577.6,12.6,Hu,Secured,Triangle,Lower,-0.028432169,Small
+Sc_5_F_8,f22,700.7,9.1,Ka,Assumed,Triangle,Lower,-0.402654867,Small
+Sc_5_F_8,f22,723.3,0,Er,Assumed,Triangle,Lower,0,Small
+Sc_9_F_8,f23,0,0,T,Secured,Negative Skewed,Upper,0.132727273,Medium
+Sc_9_F_8,f23,55,7.3,T,Secured,Negative Skewed,Upper,0.06629055,Medium
+Sc_9_F_8,f23,196.8,16.7,Q,Secured,Negative Skewed,Upper,0.32176235,Medium
+Sc_9_F_8,f23,421.5,89,F,Secured,Negative Skewed,Upper,1.192425793,Medium
+Sc_9_F_8,f23,519.2,205.5,Zo2,Assumed,Negative Skewed,Upper,-0.101933216,Medium
+Sc_9_F_8,f23,633,193.9,Zo8,Assumed,Negative Skewed,Upper,0.098411798,Medium
+Sc_9_F_8,f23,985.6,228.6,Gu,Assumed,Negative Skewed,Mid,0.085898354,Medium
+Sc_9_F_8,f23,1125.3,240.6,Ma,Assumed,Negative Skewed,Mid,1.120893561,Medium
+Sc_9_F_8,f23,1201.4,325.9,Hu,Assumed,Negative Skewed,Mid,-0.513220851,Medium
+Sc_9_F_8,f23,1598.5,122.1,Ka,Assumed,Negative Skewed,Lower,-0.297592998,Medium
+Sc_9_F_8,f23,1735.6,81.3,Er,Assumed,Negative Skewed,Lower,-0.291916859,Medium
+Sc_9_F_8,f23,1952.1,18.1,Pr,Assumed,Negative Skewed,Lower,-0.220731707,Medium
+Sc_9_F_8,f23,2034.1,0,Di,Assumed,Negative Skewed,Lower,0,Medium
+Sc_10_F_8,f24,0,0,N,Secured,Negative Skewed,Upper,0.71037182,Medium
+Sc_10_F_8,f24,204.4,145.2,F,Secured,Negative Skewed,Upper,0.388429752,Medium
+Sc_10_F_8,f24,349.6,201.6,Zo2,Secured,Negative Skewed,Upper,0.263467189,Medium
+Sc_10_F_8,f24,451.7,228.5,Zo8,Secured,Negative Skewed,Upper,-0.112284316,Medium
+Sc_10_F_8,f24,840,184.9,Gu,Assumed,Negative Skewed,Upper,0.255159475,Medium
+Sc_10_F_8,f24,946.6,212.1,Ma,Assumed,Negative Skewed,Mid,0.286821705,Medium
+Sc_10_F_8,f24,1036.9,238,Hu,Assumed,Negative Skewed,Mid,0.004827586,Medium
+Sc_10_F_8,f24,1326.9,239.4,Ka,Assumed,Negative Skewed,Mid,-0.39809423,Medium
+Sc_10_F_8,f24,1515.8,164.2,Er,Assumed,Negative Skewed,Lower,-0.489332416,Medium
+Sc_10_F_8,f24,1806.4,22,Pr,Assumed,Negative Skewed,Lower,-0.221997982,Medium
+Sc_10_F_8,f24,1905.5,0,Di,Assumed,Negative Skewed,Lower,0,Medium
+Sc_12_F_8,f25,0,0,T,Proven,Negative Skewed,Upper,0.156186613,Medium
+Sc_12_F_8,f25,147.9,23.1,T,Proven,Negative Skewed,Upper,0.11640625,Medium
+Sc_12_F_8,f25,275.9,38,Q,Proven,Negative Skewed,Upper,0.218820351,Medium
+Sc_12_F_8,f25,498,86.6,F,Proven,Negative Skewed,Upper,-0.043659044,Medium
+Sc_12_F_8,f25,642.3,80.3,Zo2,Secured,Negative Skewed,Upper,0.01494396,Medium
+Sc_12_F_8,f25,722.6,81.5,Zo8,Secured,Negative Skewed,Upper,0.079881657,Medium
+Sc_12_F_8,f25,925.4,97.7,Gu,Secured,Negative Skewed,Upper,0.405271829,Medium
+Sc_12_F_8,f25,986.1,122.3,Ma,Secured,Negative Skewed,Mid,0.3903177,Medium
+Sc_12_F_8,f25,1052.2,148.1,Hu,Secured,Negative Skewed,Mid,-0.112903226,Medium
+Sc_12_F_8,f25,1170,134.8,Ka,Assumed,Negative Skewed,Lower,-0.298161471,Medium
+Sc_12_F_8,f25,1295.1,97.5,Er,Assumed,Negative Skewed,Lower,-0.752895753,Medium
+Sc_12_F_8,f25,1424.6,0,Pr,Assumed,Negative Skewed,Lower,0,Medium
+Sc_11_F_8,f26,0,0,T,Secured,Positive Skewed,Upper,5.764397906,Medium
+Sc_11_F_8,f26,57.3,330.3,Q,Secured,Positive Skewed,Upper,0.043845913,Medium
+Sc_11_F_8,f26,376.6,344.3,F,Proven,Positive Skewed,Upper,0.582763338,Medium
+Sc_11_F_8,f26,449.7,386.9,Zo2,Proven,Positive Skewed,Mid,-0.267968057,Medium
+Sc_11_F_8,f26,900.5,266.1,Zo8,Proven,Positive Skewed,Lower,-0.422798552,Medium
+Sc_11_F_8,f26,1066.3,196,Gu,Secured,Positive Skewed,Lower,-0.692899408,Medium
+Sc_11_F_8,f26,1235.3,78.9,Ma,Secured,Positive Skewed,Lower,-0.211055276,Medium
+Sc_11_F_8,f26,1334.8,57.9,Hu,Secured,Positive Skewed,Lower,-0.25456621,Medium
+Sc_11_F_8,f26,1422.4,35.6,Ka,Secured,Positive Skewed,Lower,-0.714859438,Medium
+Sc_11_F_8,f26,1472.2,0,Er,Secured,Positive Skewed,Lower,0,Medium
+Sc_7_F_8,f27,0,0,Q-1,Proven,Trapezoid,Upper,0.189922481,Medium
+Sc_7_F_8,f27,25.8,4.9,N,Proven,Trapezoid,Upper,0.196078431,Medium
+Sc_7_F_8,f27,173.7,33.9,F,Proven,Trapezoid,Upper,-0.035553047,Medium
+Sc_7_F_8,f27,350.9,27.6,Zo2,Secured,Trapezoid,Upper,0.01010101,Medium
+Sc_7_F_8,f27,519.2,29.3,Zo8,Secured,Trapezoid,Mid,-0.013520039,Medium
+Sc_7_F_8,f27,933.4,23.7,Gu,Secured,Trapezoid,Lower,-0.126213592,Medium
+Sc_7_F_8,f27,1046.7,9.4,Ma,Assumed,Trapezoid,Lower,0.204391892,Medium
+Sc_7_F_8,f27,1105.9,21.5,Hu,Assumed,Trapezoid,Lower,-0.220966084,Medium
+Sc_7_F_8,f27,1203.2,0,Ka,Assumed,Trapezoid,Lower,0,Medium
+Sc_6_F_8,f28,0,0,F-2,Proven,Positive Skewed,Upper,0.102577591,Medium
+Sc_6_F_8,f28,190.1,19.5,Zo2,Proven,Positive Skewed,Upper,0.178639542,Medium
+Sc_6_F_8,f28,347.4,47.6,Zo8,Proven,Positive Skewed,Upper,0.224951697,Medium
+Sc_6_F_8,f28,709.7,129.1,Gu,Proven,Positive Skewed,Mid,-0.343586387,Medium
+Sc_6_F_8,f28,862.5,76.6,Ma,Secured,Positive Skewed,Lower,-0.473939394,Medium
+Sc_6_F_8,f28,945,37.5,Hu,Secured,Positive Skewed,Lower,-0.041005803,Medium
+Sc_6_F_8,f28,1203.5,26.9,Ka,Secured,Positive Skewed,Lower,0.003164557,Medium
+Sc_6_F_8,f28,1329.9,27.3,Er,Assumed,Positive Skewed,Lower,-0.175902062,Medium
+Sc_6_F_8,f28,1485.1,0,Pr,Assumed,Positive Skewed,Lower,0,Medium
+Sc_9_F_8a,f29,0,0,F-2,Proven,Positive Skewed,Upper,2.913157895,Medium
+Sc_9_F_8a,f29,114,332.1,Zo2,Proven,Positive Skewed,Upper,0.878015162,Medium
+Sc_9_F_8a,f29,259.1,459.5,Zo8,Proven,Positive Skewed,Mid,-0.504277353,Medium
+Sc_9_F_8a,f29,925.4,123.5,Gu,Secured,Positive Skewed,Mid,0.015397083,Medium
+Sc_9_F_8a,f29,1048.8,125.4,Ma,Secured,Positive Skewed,Lower,-0.611216131,Medium
+Sc_9_F_8a,f29,1207.5,28.4,Hu,Secured,Positive Skewed,Lower,-0.302771855,Medium
+Sc_9_F_8a,f29,1301.3,0,Ka,Secured,Positive Skewed,Lower,0,Medium
+Sc_10_F_8a,f30,0,0,N,Secured,Negative Skewed,Upper,0.71037182,Medium
+Sc_10_F_8a,f30,204.4,145.2,F,Secured,Negative Skewed,Upper,0.388429752,Medium
+Sc_10_F_8a,f30,349.6,201.6,Zo2,Secured,Negative Skewed,Upper,0.263467189,Medium
+Sc_10_F_8a,f30,451.7,228.5,Zo8,Secured,Negative Skewed,Upper,-0.112284316,Medium
+Sc_10_F_8a,f30,840,184.9,Gu,Assumed,Negative Skewed,Upper,0.255159475,Medium
+Sc_10_F_8a,f30,946.6,212.1,Ma,Assumed,Negative Skewed,Upper,0.286821705,Medium
+Sc_10_F_8a,f30,1036.9,238,Hu,Assumed,Negative Skewed,Mid,0.004827586,Medium
+Sc_10_F_8a,f30,1326.9,239.4,Ka,Assumed,Negative Skewed,Mid,-0.39809423,Medium
+Sc_10_F_8a,f30,1515.8,164.2,Er,Assumed,Negative Skewed,Lower,-0.489332416,Medium
+Sc_10_F_8a,f30,1806.4,22,Pr,Assumed,Negative Skewed,Lower,-0.221997982,Medium
+Sc_10_F_8a,f30,1905.5,0,Di,Assumed,Negative Skewed,Lower,0,Medium
+Sc_12_F_8c,f31,0,0,T,Proven,Negative Skewed,Upper,0.067613252,Medium
+Sc_12_F_8c,f31,147.9,10,T,Proven,Negative Skewed,Upper,0.1328125,Medium
+Sc_12_F_8c,f31,275.9,27,Q,Proven,Negative Skewed,Upper,0.220621342,Medium
+Sc_12_F_8c,f31,498,76,F,Proven,Negative Skewed,Upper,-0.041580042,Medium
+Sc_12_F_8c,f31,642.3,70,Zo2,Secured,Negative Skewed,Upper,0.0124533,Medium
+Sc_12_F_8c,f31,722.6,71,Zo8,Secured,Negative Skewed,Upper,0.078895464,Medium
+Sc_12_F_8c,f31,925.4,87,Gu,Secured,Negative Skewed,Upper,0.411861614,Medium
+Sc_12_F_8c,f31,986.1,112,Ma,Secured,Negative Skewed,Mid,0.393343419,Medium
+Sc_12_F_8c,f31,1052.2,138,Hu,Secured,Negative Skewed,Mid,-0.118845501,Medium
+Sc_12_F_8c,f31,1170,124,Ka,Assumed,Negative Skewed,Lower,-0.3117506,Medium
+Sc_12_F_8c,f31,1295.1,85,Er,Assumed,Negative Skewed,Lower,-0.656370656,Medium
+Sc_12_F_8c,f31,1424.6,0,Pr,Assumed,Negative Skewed,Lower,0,Medium
+Sc_8_F_8d,f32,0,0,F-2,Secured,Positive Skewed,Upper,2.807017544,Medium
+Sc_8_F_8d,f32,114,320,Zo2,Proven,Positive Skewed,Mid,0.689179876,Medium
+Sc_8_F_8d,f32,259.1,420,Zo8,Secured,Positive Skewed,Mid,-0.450247636,Medium
+Sc_8_F_8d,f32,925.4,120,Gu,Secured,Positive Skewed,Lower,-0.364667747,Medium
+Sc_8_F_8d,f32,1048.8,75,Ma,Secured,Positive Skewed,Lower,-0.252047889,Medium
+Sc_8_F_8d,f32,1207.5,35,Hu,Secured,Positive Skewed,Lower,-0.373134328,Medium
+Sc_8_F_8d,f32,1301.3,0,Ka,Secured,Positive Skewed,Lower,0,Medium
+Sc_7_F_10,f33,0,0,F-2,Secured,Trapezoid,Upper,0.906040268,Medium
+Sc_7_F_10,f33,119.2,108,Zo2,Secured,Trapezoid,Upper,0.031531532,Medium
+Sc_7_F_10,f33,296.8,113.6,Zo8,Secured,Trapezoid,Upper,-0.012271973,Medium
+Sc_7_F_10,f33,899.8,106.2,Gu,Assumed,Trapezoid,Upper,-0.071556351,Medium
+Sc_7_F_10,f33,1067.5,94.2,Ma,Assumed,Trapezoid,Lower,0.166147456,Medium
+Sc_7_F_10,f33,1163.8,110.2,Hu,Assumed,Trapezoid,Mid,-0.40872772,Medium
+Sc_7_F_10,f33,1326.5,43.7,Ka,Assumed,Trapezoid,Lower,0.233968804,Medium
+Sc_7_F_10,f33,1441.9,70.7,Er,Assumed,Trapezoid,Lower,-0.232059021,Medium
+Sc_7_F_10,f33,1591,36.1,Pr,Assumed,Trapezoid,Lower,-0.116782007,Medium
+Sc_7_F_10,f33,1706.6,22.6,Di,Assumed,Trapezoid,Lower,-0.268727705,Medium
+Sc_7_F_10,f33,1790.7,0,So,Assumed,Trapezoid,Lower,0,Medium
+Sc_7_F_14,f34,0,0,Zo8,Secured,Triangle,Upper,1.242798354,Small
+Sc_7_F_14,f34,24.3,30.2,Gu,Secured,Triangle,Mid,-0.163779528,Small
+Sc_7_F_14,f34,151.3,9.4,Ma,Secured,Triangle,Mid,-0.022486772,Small
+Sc_7_F_14,f34,226.9,7.7,Hu,Secured,Triangle,Lower,0.030431706,Small
+Sc_7_F_14,f34,368.2,12,Ka,Secured,Triangle,Lower,-0.177777778,Small
+Sc_7_F_14,f34,435.7,0,Er,Secured,Triangle,Lower,0,Small
+Sc_7_F_16,f35,0,0,F-2,Proven,Overlap,Upper,0.239356179,Medium
+Sc_7_F_16,f35,192.6,46.1,Zo2,Proven,Overlap,Upper,0.016535759,Medium
+Sc_7_F_16,f35,434.5,50.1,Zo8,Proven,Overlap,Upper,-0.128457283,Medium
+Sc_7_F_16,f35,759.9,8.3,Gu,Secured,Overlap,Upper,0.050113895,Medium
+Sc_7_F_16,f35,891.6,14.9,Ma,Proven,Overlap,Mid,0.049382716,Medium
+Sc_7_F_16,f35,996.9,20.1,Hu,Secured,Overlap,Lower,-0.026525199,Medium
+Sc_7_F_16,f35,1336.2,11.1,Ka,Proven,Overlap,Lower,0.035294118,Medium
+Sc_7_F_16,f35,1472.2,15.9,Er,Proven,Overlap,Lower,-0.119369369,Medium
+Sc_7_F_16,f35,1605.4,0,Pr,Proven,Overlap,Lower,0,Medium
+Sc_7_F_7,f36,0,0,F-2,Proven,Overlap,Upper,0.358024691,Medium
+Sc_7_F_7,f36,56.7,20.3,Zo2,Proven,Overlap,Upper,0.21686747,Medium
+Sc_7_F_7,f36,239.3,59.9,Zo8,Secured,Overlap,Upper,-0.079011149,Medium
+Sc_7_F_7,f36,445.6,43.6,Gu,Proven,Overlap,Mid,-0.173249551,Medium
+Sc_7_F_7,f36,557,24.3,Ma,Proven,Overlap,Mid,-0.059479554,Medium
+Sc_7_F_7,f36,664.6,17.9,Hu,Secured,Overlap,Lower,0.424794895,Medium
+Sc_7_F_7,f36,774.3,64.5,Ka,Secured,Overlap,Lower,-0.127694317,Medium
+Sc_7_F_7,f36,1080.5,25.4,Er,Assumed,Overlap,Lower,0.078471864,Medium
+Sc_7_F_7,f36,1274.2,40.6,Pr,Assumed,Overlap,Lower,-0.415132924,Medium
+Sc_7_F_7,f36,1372,0,Di,Assumed,Overlap,Lower,0,Medium
+Sc_6_F_10,f37,0,0,F-2,Secured,Triangle,Upper,0.103467406,Medium
+Sc_6_F_10,f37,360.5,37.3,Zo2,Secured,Triangle,Mid,-0.029362416,Medium
+Sc_6_F_10,f37,598.9,30.3,Zo8,Secured,Triangle,Mid,-0.038702703,Medium
+Sc_6_F_10,f37,1061.4,12.4,Gu,Secured,Triangle,Lower,-0.020050125,Medium
+Sc_6_F_10,f37,1221,9.2,Ma,Secured,Triangle,Lower,-0.117197452,Medium
+Sc_6_F_10,f37,1299.5,0,Hu,Secured,Triangle,Lower,0,Medium
+Sc_6_F_23,f38,0,0,Zo2,Proven,Triangle,Upper,4.903921569,Medium
+Sc_6_F_23,f38,51,250.1,Zo8,Proven,Triangle,Mid,-0.203311376,Medium
+Sc_6_F_23,f38,612.7,135.9,La,Proven,Triangle,Mid,-0.145135566,Medium
+Sc_6_F_23,f38,926.2,90.4,Gu,Proven,Triangle,Mid,-0.23993808,Medium
+Sc_6_F_23,f38,1120,43.9,Ma,Secured,Triangle,Mid,0.802484472,Medium
+Sc_6_F_23,f38,1200.5,108.5,Hu,Assumed,Triangle,Lower,-0.284926471,Medium
+Sc_6_F_23,f38,1581.3,0,Ka,Assumed,Triangle,Lower,0,Medium
+Sc_12_F_3,f39,0,0,Hu,Proven,Positive Skewed,Upper,5.074418605,Medium
+Sc_12_F_3,f39,21.5,109.1,Ka,Proven,Positive Skewed,Upper,0.86431479,Medium
+Sc_12_F_3,f39,168.9,236.5,Er,Proven,Positive Skewed,Mid,0.176644737,Medium
+Sc_12_F_3,f39,472.9,290.2,Pr,Secured,Positive Skewed,Mid,-0.658751696,Medium
+Sc_12_F_3,f39,620.3,193.1,Di,Secured,Positive Skewed,Lower,-0.39327385,Medium
+Sc_12_F_3,f39,766,135.8,So,Secured,Positive Skewed,Lower,-0.016909162,Medium
+Sc_12_F_3,f39,1020.3,131.5,Gi5,Assumed,Positive Skewed,Lower,-0.114948199,Medium
+Sc_12_F_3,f39,1223,108.2,Fi,Assumed,Positive Skewed,Lower,-0.518944844,Medium
+Sc_12_F_3,f39,1431.5,0,Ge1,Assumed,Positive Skewed,Lower,0,Medium
+Sc_12_F_10,f40,0,0,Ka,Assumed,Trapezoid,Upper,0.395017794,Small
+Sc_12_F_10,f40,28.1,11.1,Hu,Assumed,Trapezoid,Upper,0.12962963,Small
+Sc_12_F_10,f40,173.9,30,Ka,Proven,Trapezoid,Mid,-0.027027027,Small
+Sc_12_F_10,f40,247.9,28,Er,Proven,Trapezoid,Lower,-0.36939314,Small
+Sc_12_F_10,f40,323.7,0,Pr,Proven,Trapezoid,Lower,0,Small
+Sc_12_F_18,f41,0,0,Er,Secured,Triangle,Upper,2.055655296,Small
+Sc_12_F_18,f41,55.7,114.5,Pr,Secured,Triangle,Mid,-0.286231884,Small
+Sc_12_F_18,f41,221.3,67.1,Di,Secured,Triangle,Mid,-0.366463415,Small
+Sc_12_F_18,f41,385.3,7,So,Secured,Triangle,Lower,-0.043887147,Small
+Sc_12_F_18,f41,544.8,0,Gi5,Secured,Triangle,Lower,0,Small
+Sc_12_F_23,f42,0,0,Zo2,Proven,Positive Skewed,Upper,0.379825654,Medium
+Sc_12_F_23,f42,160.6,61,Zo8,Proven,Positive Skewed,Upper,0.376150811,Medium
+Sc_12_F_23,f42,388.7,146.8,La,Proven,Positive Skewed,Upper,0.208032361,Medium
+Sc_12_F_23,f42,734.8,218.8,Gu,Proven,Positive Skewed,Mid,-0.202569593,Medium
+Sc_12_F_23,f42,968.3,171.5,Ma,Secured,Positive Skewed,Lower,-0.313973953,Medium
+Sc_12_F_23,f42,1252.4,82.3,Hu,Secured,Positive Skewed,Lower,-0.075152336,Medium
+Sc_12_F_23,f42,1843.2,37.9,Ka,Secured,Positive Skewed,Lower,-0.246103896,Medium
+Sc_12_F_23,f42,1997.2,0,Er,Secured,Positive Skewed,Lower,0,Medium
+Sc_12_F_6,f43,0,0,La,Proven,Trapezoid,Upper,0.277333333,Small
+Sc_12_F_6,f43,37.5,10.4,Gu,Proven,Trapezoid,Upper,0.01878287,Small
+Sc_12_F_6,f43,170.6,12.9,Ma,Secured,Trapezoid,Upper,0.005704971,Small
+Sc_12_F_6,f43,293.3,13.6,Hu,Secured,Trapezoid,Mid,0.016442451,Small
+Sc_12_F_6,f43,360.2,14.7,Ka,Assumed,Trapezoid,Mid,-0.015517241,Small
+Sc_12_F_6,f43,418.2,13.8,Er,Assumed,Trapezoid,Mid,-0.278787879,Small
+Sc_12_F_6,f43,467.7,0,Pr,Assumed,Trapezoid,Lower,0,Small
+Sc_12_F_7,f44,0,0,La,Proven,Trapezoid,Upper,0.121359223,Small
+Sc_12_F_7,f44,41.2,5,Gu,Proven,Trapezoid,Upper,0.116452991,Small
+Sc_12_F_7,f44,228.4,26.8,Ma,Secured,Trapezoid,Upper,0.484808454,Small
+Sc_12_F_7,f44,304.1,63.5,Hu,Secured,Trapezoid,Mid,-0.031341108,Small
+Sc_12_F_7,f44,441.3,59.2,Ka,Assumed,Trapezoid,Mid,-0.49068323,Small
+Sc_12_F_7,f44,537.9,11.8,Er,Assumed,Trapezoid,Lower,-0.510822511,Small
+Sc_12_F_7,f44,561,0,Pr,Assumed,Trapezoid,Lower,0,Small
+Sc_4_F_23,f45,0,0,La,Proven,Triangle,Upper,1.171018277,Medium
+Sc_4_F_23,f45,153.2,179.4,Gu,Proven,Triangle,Mid,-0.307096374,Medium
+Sc_4_F_23,f45,475.9,80.3,Ma,Secured,Triangle,Mid,0.432,Medium
+Sc_4_F_23,f45,663.4,161.3,Hu,Secured,Triangle,Mid,-0.276645312,Medium
+Sc_4_F_23,f45,1178.5,18.8,Ka,Proven,Triangle,Lower,-0.197894737,Medium
+Sc_4_F_23,f45,1273.5,0,Er,Proven,Triangle,Lower,0,Medium
+Sc_1_F_1,f46,0,0,Gi5,Assumed,Bell,Upper,0.589122287,Large
+Sc_1_F_1,f46,1147.3,675.9,Fi,Assumed,Bell,Mid,-0.130237523,Large
+Sc_1_F_1,f46,1522,627.1,Kr-2,Secured,Bell,Mid,-0.212481426,Large
+Sc_1_F_1,f46,1589.3,612.8,Mg,Secured,Bell,Mid,-0.525152112,Large
+Sc_1_F_1,f46,2756.2,0,Sb,Secured,Bell,Lower,0,Large
+Sc_2_F_1,f47,0,0,Gi5,Secured,Bell,Upper,0.551216931,Large
+Sc_2_F_1,f47,945,520.9,Fi,Secured,Bell,Upper,0.81511254,Large
+Sc_2_F_1,f47,1131.6,673,Ge1,Assumed,Bell,Mid,-0.468854655,Large
+Sc_2_F_1,f47,1280.9,603,Mg,Assumed,Bell,Mid,-0.230789755,Large
+Sc_2_F_1,f47,2030.5,430,Sb,Secured,Bell,Lower,-0.287625418,Large
+Sc_2_F_1,f47,3525.5,0,Hf,Secured,Bell,Lower,0,Large
+Sc_3_F_1,f48,0,0,Gi5,Secured,Bell,Upper,1.003651987,Large
+Sc_3_F_1,f48,931,934.4,Fi,Secured,Bell,Mid,-0.495275591,Large
+Sc_3_F_1,f48,1185,808.6,Ge1,Proven,Bell,Mid,0.019274376,Large
+Sc_3_F_1,f48,1361.4,812,Mg,Secured,Bell,Mid,-0.294305822,Large
+Sc_3_F_1,f48,1830.3,674,Sb,Assumed,Bell,Lower,-0.955080062,Large
+Sc_3_F_1,f48,2536,0,Hf,Assumed,Bell,Lower,0,Large
+Sc_4_F_1,f49,0,0,Zo8,Secured,Bell,Upper,0.974358974,Large
+Sc_4_F_1,f49,117,114,La,Secured,Bell,Upper,-0.020408163,Large
+Sc_4_F_1,f49,273.8,110.8,Gu,Secured,Bell,Upper,2.449230769,Large
+Sc_4_F_1,f49,338.8,270,Ma,Secured,Bell,Upper,2.319474836,Large
+Sc_4_F_1,f49,384.5,376,Hu,Secured,Bell,Upper,0.317676587,Large
+Sc_4_F_1,f49,663.4,464.6,Ka,Secured,Bell,Upper,1.373765867,Large
+Sc_4_F_1,f49,734.3,562,Er,Secured,Bell,Upper,-0.134977123,Large
+Sc_4_F_1,f49,1127.7,508.9,Pr,Secured,Bell,Upper,0.924050633,Large
+Sc_4_F_1,f49,1198.8,574.6,Di,Secured,Bell,Upper,0.53053783,Large
+Sc_4_F_1,f49,1308.5,632.8,So,Secured,Bell,Upper,0.75827957,Large
+Sc_4_F_1,f49,1773.5,985.4,Gi5,Secured,Bell,Mid,-0.32807138,Large
+Sc_4_F_1,f49,2210.6,842,Fi,Secured,Bell,Mid,0.139604554,Large
+Sc_4_F_1,f49,2711.3,911.9,Mg,Secured,Bell,Mid,-0.460674157,Large
+Sc_4_F_1,f49,3236.4,670,Sb,Assumed,Bell,Lower,-0.556958763,Large
+Sc_4_F_1,f49,4012.4,237.8,Hf,Assumed,Bell,Lower,-0.090097087,Large
+Sc_4_F_1,f49,4269.9,214.6,Wb,Assumed,Bell,Lower,-0.232704403,Large
+Sc_4_F_1,f49,5192.1,0,Gs,Assumed,Bell,Lower,0,Large
+Sc_4_F_22,f50,0,0,Gu,Secured,Trapezoid,Upper,0.503080082,Small
+Sc_4_F_22,f50,48.7,24.5,Ma,Secured,Trapezoid,Upper,0.242608696,Small
+Sc_4_F_22,f50,163.7,52.4,Hu,Secured,Trapezoid,Mid,0.052571429,Small
+Sc_4_F_22,f50,251.2,57,Ka,Proven,Trapezoid,Mid,-0.659722222,Small
+Sc_4_F_22,f50,337.6,0,Er,Proven,Trapezoid,Lower,0,Small
+Sc_5_F_22a,f51,0,0,La,Secured,Overlap,Upper,0.526501767,Small
+Sc_5_F_22a,f51,84.9,44.7,Gu,Secured,Overlap,Mid,-0.121853898,Small
+Sc_5_F_22a,f51,410.7,5,Ma,Secured,Overlap,Mid,0.166303875,Small
+Sc_5_F_22a,f51,640.4,43.2,Hu,Secured,Overlap,Mid,-0.537982565,Small
+Sc_5_F_22a,f51,720.7,0,Ka,Secured,Overlap,Lower,0,Small
+Sc_5_F_22b,f52,0,0,Hu,Secured,Triangle,Upper,0.205733558,Small
+Sc_5_F_22b,f52,59.3,12.2,Ka,Secured,Triangle,Upper,0.911222781,Small
+Sc_5_F_22b,f52,119,66.6,Er,Secured,Triangle,Mid,-0.11076002,Small
+Sc_5_F_22b,f52,720.3,0,Pr,Secured,Triangle,Lower,0,Small
+Sc_5_F_1,f53,0,0,Zo8,Assumed,Negative Skewed,Upper,1.140229885,Large
+Sc_5_F_1,f53,87,99.2,La,Assumed,Negative Skewed,Upper,0.195721925,Large
+Sc_5_F_1,f53,180.5,117.5,Gu,Secured,Negative Skewed,Upper,0.606493506,Large
+Sc_5_F_1,f53,334.5,210.9,Ma,Secured,Negative Skewed,Upper,-0.419004525,Large
+Sc_5_F_1,f53,445,164.6,Hu,Secured,Negative Skewed,Upper,2.230496454,Large
+Sc_5_F_1,f53,557.8,416.2,Ka,Secured,Negative Skewed,Upper,-0.29494382,Large
+Sc_5_F_1,f53,700.2,374.2,Er,Assumed,Negative Skewed,Upper,0.524689285,Large
+Sc_5_F_1,f53,997.9,530.4,Pr,Assumed,Negative Skewed,Mid,-0.03258427,Large
+Sc_5_F_1,f53,1086.9,527.5,Di,Assumed,Negative Skewed,Mid,-0.458829622,Large
+Sc_5_F_1,f53,1280,438.9,So,Assumed,Negative Skewed,Mid,-0.338877756,Large
+Sc_5_F_1,f53,1779,269.8,Gi5,Assumed,Negative Skewed,Lower,0.340668524,Large
+Sc_5_F_1,f53,2138,392.1,Fi,Assumed,Negative Skewed,Lower,0.744680851,Large
+Sc_5_F_1,f53,2589.2,728.1,Mg,Assumed,Negative Skewed,Lower,-0.460757781,Large
+Sc_5_F_1,f53,3032.6,523.8,Sb,Assumed,Negative Skewed,Lower,-0.584598214,Large
+Sc_5_F_1,f53,3928.6,0,Hf,Assumed,Negative Skewed,Lower,0,Large
+Sc_6_F_1,f54,0,0,La,Assumed,Semi-Circle,Upper,0.090909091,Large
+Sc_6_F_1,f54,52.8,4.8,Gu,Assumed,Semi-Circle,Upper,0.786921381,Large
+Sc_6_F_1,f54,188.9,111.9,Ma,Assumed,Semi-Circle,Upper,0.683894785,Large
+Sc_6_F_1,f54,405.6,260.1,Hu,Assumed,Semi-Circle,Upper,0.216538192,Large
+Sc_6_F_1,f54,548.3,291,Ka,Assumed,Semi-Circle,Upper,-0.116169545,Large
+Sc_6_F_1,f54,675.7,276.2,Er,Assumed,Semi-Circle,Upper,1.919224556,Large
+Sc_6_F_1,f54,861.4,632.6,Pr,Assumed,Semi-Circle,Upper,0.274336283,Large
+Sc_6_F_1,f54,951.8,657.4,Di,Assumed,Semi-Circle,Mid,-0.574124914,Large
+Sc_6_F_1,f54,1243.2,490.1,So,Assumed,Semi-Circle,Lower,-0.212675596,Large
+Sc_6_F_1,f54,1855.4,359.9,Gi5,Assumed,Semi-Circle,Lower,0.408190225,Large
+Sc_6_F_1,f54,2233.9,514.4,Fi,Secured,Semi-Circle,Lower,0.181394602,Large
+Sc_6_F_1,f54,2856.3,627.3,Mg,Assumed,Semi-Circle,Lower,-0.205135521,Large
+Sc_6_F_1,f54,3206.8,555.4,Sb,Assumed,Semi-Circle,Lower,-0.27286389,Large
+Sc_6_F_1,f54,3672.6,428.3,Hf,Assumed,Semi-Circle,Lower,0.026863085,Large
+Sc_6_F_1,f54,3903.4,434.5,Wb,Assumed,Semi-Circle,Lower,-0.521984623,Large
+Sc_6_F_1,f54,4735.8,0,Gs,Assumed,Semi-Circle,Lower,0,Large
+Sc_7_F_1,f55,0,0,La,Proven,Semi-Circle,Upper,0.225,Large
+Sc_7_F_1,f55,56,12.6,Gu,Proven,Semi-Circle,Upper,0.092772384,Large
+Sc_7_F_1,f55,241.4,29.8,Ma,Assumed,Semi-Circle,Upper,0.056849953,Large
+Sc_7_F_1,f55,348.7,35.9,Hu,Assumed,Semi-Circle,Upper,3.253636364,Large
+Sc_7_F_1,f55,458.7,393.8,Ka,Assumed,Semi-Circle,Upper,-0.03952381,Large
+Sc_7_F_1,f55,668.7,385.5,Er,Assumed,Semi-Circle,Upper,1.61393597,Large
+Sc_7_F_1,f55,881.1,728.3,Pr,Assumed,Semi-Circle,Mid,0.373765867,Large
+Sc_7_F_1,f55,952,754.8,Di,Assumed,Semi-Circle,Mid,-0.650308394,Large
+Sc_7_F_1,f55,1324.9,512.3,So,Assumed,Semi-Circle,Lower,0.007686149,Large
+Sc_7_F_1,f55,1949.4,517.1,Gi5,Assumed,Semi-Circle,Lower,0.228445099,Large
+Sc_7_F_1,f55,2356.5,610.1,Fi,Assumed,Semi-Circle,Lower,-0.240060583,Large
+Sc_7_F_1,f55,2884.7,483.3,Mg,Assumed,Semi-Circle,Lower,0.216983401,Large
+Sc_7_F_1,f55,3300.4,573.5,Sb,Assumed,Semi-Circle,Lower,0.197985688,Large
+Sc_7_F_1,f55,3677.7,648.2,Hf,Assumed,Semi-Circle,Lower,0.130921619,Large
+Sc_7_F_1,f55,3909.9,678.6,Wb,Assumed,Semi-Circle,Lower,-0.744650499,Large
+Sc_7_F_1,f55,4821.2,0,Gs,Assumed,Semi-Circle,Lower,0,Large
+Sc_8_F_1,f56,0,0,Hu,Secured,Semi-Circle,Upper,0.893112533,Large
+Sc_8_F_1,f56,265.7,237.3,Ka,Secured,Semi-Circle,Upper,-0.224365482,Large
+Sc_8_F_1,f56,462.7,193.1,Er,Secured,Semi-Circle,Upper,1.983992467,Large
+Sc_8_F_1,f56,675.1,614.5,Pr,Assumed,Semi-Circle,Upper,4.513235294,Large
+Sc_8_F_1,f56,743.1,921.4,Di,Assumed,Semi-Circle,Mid,-0.642181275,Large
+Sc_8_F_1,f56,1144.7,663.5,So,Assumed,Semi-Circle,Lower,-0.241251544,Large
+Sc_8_F_1,f56,1873.4,487.7,Gi5,Secured,Semi-Circle,Lower,0.444129032,Large
+Sc_8_F_1,f56,2260.9,659.8,Fi,Secured,Semi-Circle,Lower,-0.022523285,Large
+Sc_8_F_1,f56,2851.4,646.5,Mg,Secured,Semi-Circle,Lower,-0.215921978,Large
+Sc_8_F_1,f56,3292.3,551.3,Sb,Assumed,Semi-Circle,Lower,-0.028499843,Large
+Sc_8_F_1,f56,3611.6,542.2,Hf,Assumed,Semi-Circle,Lower,0.171614772,Large
+Sc_8_F_1,f56,3887.8,589.6,Wb,Assumed,Semi-Circle,Lower,-0.515970946,Large
+Sc_8_F_1,f56,5030.5,0,Gs,Assumed,Semi-Circle,Lower,0,Large
+Sc_9_F_1,f57,0,0,Hu-1,Assumed,Semi-Circle,Upper,0.282771536,Large
+Sc_9_F_1,f57,53.4,15.1,Hu,Assumed,Semi-Circle,Upper,0.094093407,Large
+Sc_9_F_1,f57,199,28.8,Ka,Assumed,Semi-Circle,Upper,0.483739837,Large
+Sc_9_F_1,f57,297.4,76.4,Er,Assumed,Semi-Circle,Upper,1.177594218,Large
+Sc_9_F_1,f57,491.1,304.5,Pr,Assumed,Semi-Circle,Upper,0.478151683,Large
+Sc_9_F_1,f57,690.2,399.7,Di,Secured,Semi-Circle,Upper,0.171048562,Large
+Sc_9_F_1,f57,1013.5,455,So,Secured,Semi-Circle,Mid,-0.00998004,Large
+Sc_9_F_1,f57,1614.7,449,Gi5,Secured,Semi-Circle,Mid,-0.025682554,Large
+Sc_9_F_1,f57,2046.9,437.9,Fi,Secured,Semi-Circle,Mid,-0.322801861,Large
+Sc_9_F_1,f57,2455.2,306.1,Mg,Secured,Semi-Circle,Lower,0.192583732,Large
+Sc_9_F_1,f57,2789.6,370.5,Sb,Secured,Semi-Circle,Lower,0.03267807,Large
+Sc_9_F_1,f57,3181.3,383.3,Hf,Assumed,Semi-Circle,Lower,-0.308307265,Large
+Sc_9_F_1,f57,3469,294.6,Wb,Assumed,Semi-Circle,Lower,-0.314810857,Large
+Sc_9_F_1,f57,4404.8,0,Gs,Assumed,Semi-Circle,Lower,0,Large
+Sc_10_F_1,f58,0,0,Hu,Secured,Negative Skewed,Upper,0.224590164,Large
+Sc_10_F_1,f58,183,41.1,Ka,Secured,Negative Skewed,Upper,0.090347123,Large
+Sc_10_F_1,f58,393.3,60.1,Er,Assumed,Negative Skewed,Upper,0.097381342,Large
+Sc_10_F_1,f58,637.7,83.9,Pr,Assumed,Negative Skewed,Upper,0.446233097,Large
+Sc_10_F_1,f58,793,153.2,Di,Assumed,Negative Skewed,Upper,0.365456821,Large
+Sc_10_F_1,f58,1032.7,240.8,So,Assumed,Negative Skewed,Upper,0.035384827,Large
+Sc_10_F_1,f58,1759,266.5,Gi5,Assumed,Negative Skewed,Upper,0.533707865,Large
+Sc_10_F_1,f58,2043.8,418.5,Fi,Assumed,Negative Skewed,Mid,-0.01510223,Large
+Sc_10_F_1,f58,2474.2,412,Mg,Assumed,Negative Skewed,Mid,-0.134226804,Large
+Sc_10_F_1,f58,2959.2,346.9,Sb,Assumed,Negative Skewed,Lower,-0.098465473,Large
+Sc_10_F_1,f58,3428.4,300.7,Hf,Assumed,Negative Skewed,Lower,-0.26452732,Large
+Sc_10_F_1,f58,3659,239.7,Wb,Assumed,Negative Skewed,Lower,-0.292673993,Large
+Sc_10_F_1,f58,4478,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_11_F_1,f59,0,0,Hu-1,Assumed,Negative Skewed,Upper,0.582362729,Large
+Sc_11_F_1,f59,60.1,35,Hu,Assumed,Negative Skewed,Upper,0.15076661,Large
+Sc_11_F_1,f59,294.9,70.4,Ka,Assumed,Negative Skewed,Upper,-0.101920236,Large
+Sc_11_F_1,f59,498,49.7,Er,Assumed,Negative Skewed,Upper,0.227051178,Large
+Sc_11_F_1,f59,744.2,105.6,Pr,Assumed,Negative Skewed,Upper,0.470718232,Large
+Sc_11_F_1,f59,925.2,190.8,Di,Assumed,Negative Skewed,Upper,0.038108108,Large
+Sc_11_F_1,f59,1295.2,204.9,So,Assumed,Negative Skewed,Upper,0.048220974,Large
+Sc_11_F_1,f59,1936,235.8,Gi5,Assumed,Negative Skewed,Mid,-0.219499479,Large
+Sc_11_F_1,f59,2319.6,151.6,Fi,Assumed,Negative Skewed,Lower,0.315041453,Large
+Sc_11_F_1,f59,2572.9,231.4,Mg,Assumed,Negative Skewed,Lower,0.036727513,Large
+Sc_11_F_1,f59,3027.6,248.1,Sb,Assumed,Negative Skewed,Lower,-0.13148855,Large
+Sc_11_F_1,f59,3551.6,179.2,Hf,Assumed,Negative Skewed,Lower,-0.165042439,Large
+Sc_11_F_1,f59,3869.7,126.7,Wb,Assumed,Negative Skewed,Lower,-0.233763838,Large
+Sc_11_F_1,f59,4411.7,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_12_F_1,f60,0,0,La,Secured,Negative Skewed,Upper,0.318181818,Large
+Sc_12_F_1,f60,33,10.5,Gu,Secured,Negative Skewed,Upper,0.04808476,Large
+Sc_12_F_1,f60,155.7,16.4,Ma,Secured,Negative Skewed,Upper,0.076790336,Large
+Sc_12_F_1,f60,271.6,25.3,Hu,Secured,Negative Skewed,Upper,0.010259179,Large
+Sc_12_F_1,f60,456.8,27.2,Ka,Assumed,Negative Skewed,Upper,0.150423729,Large
+Sc_12_F_1,f60,598.4,48.5,Er,Assumed,Negative Skewed,Upper,0.016483516,Large
+Sc_12_F_1,f60,816.8,52.1,Pr,Assumed,Negative Skewed,Upper,0.326002587,Large
+Sc_12_F_1,f60,971.4,102.5,Di,Assumed,Negative Skewed,Upper,-0.217913708,Large
+Sc_12_F_1,f60,1154.5,62.6,So,Assumed,Negative Skewed,Upper,0.197798476,Large
+Sc_12_F_1,f60,1745,179.4,Gi5,Assumed,Negative Skewed,Upper,0.20487013,Large
+Sc_12_F_1,f60,2361,305.6,Fi,Assumed,Negative Skewed,Mid,-0.491770902,Large
+Sc_12_F_1,f60,2512.9,230.9,Mg,Assumed,Negative Skewed,Lower,0.136382799,Large
+Sc_12_F_1,f60,2987.3,295.6,Sb,Assumed,Negative Skewed,Lower,-0.031873289,Large
+Sc_12_F_1,f60,3498.7,279.3,Hf,Assumed,Negative Skewed,Lower,-0.14374034,Large
+Sc_12_F_1,f60,3757.5,242.1,Wb,Assumed,Negative Skewed,Lower,-0.739010989,Large
+Sc_12_F_1,f60,4085.1,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_12_F_3a,f61,0,0,Hu,Proven,Positive Skewed,Upper,4.32183908,Medium
+Sc_12_F_3a,f61,26.1,112.8,Ka,Proven,Positive Skewed,Upper,0.871447903,Medium
+Sc_12_F_3a,f61,173.9,241.6,Er,Proven,Positive Skewed,Upper,0.193634841,Medium
+Sc_12_F_3a,f61,472.4,299.4,Pr,Secured,Positive Skewed,Mid,-0.129765886,Medium
+Sc_12_F_3a,f61,621.9,280,Di,Secured,Positive Skewed,Mid,-0.270635995,Medium
+Sc_12_F_3a,f61,769.7,240,So,Secured,Positive Skewed,Lower,-0.307692308,Medium
+Sc_12_F_3a,f61,1029.7,160,Gi5,Assumed,Positive Skewed,Lower,-0.388496468,Medium
+Sc_12_F_3a,f61,1227.9,83,Fi,Assumed,Positive Skewed,Lower,-0.389854392,Medium
+Sc_12_F_3a,f61,1440.8,0,Mg,Assumed,Positive Skewed,Lower,0,Medium
+Sc_12_F_1a,f62,0,0,La,Secured,Negative Skewed,Lower,0.318181818,Large
+Sc_12_F_1a,f62,33,10.5,Gu,Secured,Negative Skewed,Upper,0.04808476,Large
+Sc_12_F_1a,f62,155.7,16.4,Ma,Secured,Negative Skewed,Upper,0.076790336,Large
+Sc_12_F_1a,f62,271.6,25.3,Hu,Secured,Negative Skewed,Upper,0.010259179,Large
+Sc_12_F_1a,f62,456.8,27.2,Ka,Assumed,Negative Skewed,Upper,0.150423729,Large
+Sc_12_F_1a,f62,598.4,48.5,Er,Assumed,Negative Skewed,Upper,0.098443223,Large
+Sc_12_F_1a,f62,816.8,70,Pr,Assumed,Negative Skewed,Upper,0.210219922,Large
+Sc_12_F_1a,f62,971.4,102.5,Di,Assumed,Negative Skewed,Upper,0.150191152,Large
+Sc_12_F_1a,f62,1154.5,130,So,Assumed,Negative Skewed,Upper,0.118543607,Large
+Sc_12_F_1a,f62,1745,200,Gi5,Assumed,Negative Skewed,Upper,0.12987013,Large
+Sc_12_F_1a,f62,2361,280,Fi,Assumed,Negative Skewed,Upper,0.131665569,Large
+Sc_12_F_1a,f62,2512.9,300,Mg,Assumed,Negative Skewed,Mid,-0.009274874,Large
+Sc_12_F_1a,f62,2987.3,295.6,Sb,Assumed,Negative Skewed,Mid,-0.031873289,Large
+Sc_12_F_1a,f62,3498.7,279.3,Hf,Assumed,Negative Skewed,Lower,-0.14374034,Large
+Sc_12_F_1a,f62,3757.5,242.1,Wb,Assumed,Negative Skewed,Lower,-0.232230216,Large
+Sc_12_F_1a,f62,4800,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_12_F_111,f63,0,0,La,Secured,Trapezoid,Upper,0.357142857,Small
+Sc_12_F_111,f63,28,10,Gu,Secured,Trapezoid,Upper,0.016748768,Small
+Sc_12_F_111,f63,129.5,11.7,Ma,Assumed,Trapezoid,Mid,0.035738832,Small
+Sc_12_F_111,f63,275,16.9,Hu,Assumed,Trapezoid,Mid,-1.69,Small
+Sc_12_F_111,f63,285,0,Ka,Assumed,Trapezoid,Lower,0,Small
+Sc_5_F_2,f64,0,0,Hu,Secured,Triangle,Upper,6.715909091,Medium
+Sc_5_F_2,f64,17.6,118.2,Ka,Secured,Triangle,Mid,-0.448108632,Medium
+Sc_5_F_2,f64,223.8,25.8,Er,Secured,Triangle,Lower,-0.064516129,Medium
+Sc_5_F_2,f64,375.7,16,Pr,Secured,Triangle,Lower,0.307570978,Medium
+Sc_5_F_2,f64,439.1,35.5,Di,Assumed,Triangle,Lower,0.1629681,Medium
+Sc_5_F_2,f64,583.3,59,So,Secured,Triangle,Lower,-0.113139696,Medium
+Sc_5_F_2,f64,944.8,18.1,Gi5,Assumed,Triangle,Lower,-0.105539359,Medium
+Sc_5_F_2,f64,1116.3,0,Fi,Secured,Triangle,Lower,0,Medium
+Sc_5_F_2a,f65,0,0,Hu,Secured,Negative Skewed,Upper,6.715909091,Large
+Sc_5_F_2a,f65,17.6,118.2,Ka,Secured,Negative Skewed,Upper,-0.448108632,Large
+Sc_5_F_2a,f65,223.8,25.8,Er,Secured,Negative Skewed,Upper,-0.064516129,Large
+Sc_5_F_2a,f65,375.7,16,Pr,Secured,Negative Skewed,Upper,0.307570978,Large
+Sc_5_F_2a,f65,439.1,35.5,Di,Assumed,Negative Skewed,Upper,0.1629681,Large
+Sc_5_F_2a,f65,583.3,59,So,Secured,Negative Skewed,Upper,-0.113139696,Large
+Sc_5_F_2a,f65,944.8,18.1,Gi5,Assumed,Negative Skewed,Upper,0.313442843,Large
+Sc_5_F_2a,f65,2138,392.1,Fi,Secured,Negative Skewed,Mid,0.744680851,Large
+Sc_5_F_2a,f65,2589.2,728.1,Mg,Assumed,Negative Skewed,Mid,-0.460757781,Large
+Sc_5_F_2a,f65,3032.6,523.8,Sb,Assumed,Negative Skewed,Lower,-0.584598214,Large
+Sc_5_F_2a,f65,3928.6,0,Hf,Assumed,Negative Skewed,Lower,0,Large
+Sc_6_F_2,f66,0,0,Hu-1,Assumed,Negative Skewed,Upper,0.536312849,Medium
+Sc_6_F_2,f66,17.9,9.6,Hu,Assumed,Negative Skewed,Upper,0.078918919,Medium
+Sc_6_F_2,f66,110.4,16.9,Ka,Assumed,Negative Skewed,Upper,0.0625,Medium
+Sc_6_F_2,f66,185.6,21.6,Er,Assumed,Negative Skewed,Upper,0.007821486,Medium
+Sc_6_F_2,f66,620.3,25,Pr,Assumed,Negative Skewed,Upper,0.319407008,Medium
+Sc_6_F_2,f66,768.7,72.4,Di,Assumed,Negative Skewed,Mid,-0.016880486,Medium
+Sc_6_F_2,f66,916.8,69.9,So,Assumed,Negative Skewed,Mid,-0.090937697,Medium
+Sc_6_F_2,f66,1234.6,41,Gi5,Assumed,Negative Skewed,Lower,-0.197400096,Medium
+Sc_6_F_2,f66,1442.3,0,Fi,Assumed,Negative Skewed,Lower,0,Medium
+Sc_6_F_2a,f67,0,0,Hu-1,Secured,Negative Skewed,Upper,0.536312849,Large
+Sc_6_F_2a,f67,17.9,9.6,Hu,Secured,Negative Skewed,Upper,0.078918919,Large
+Sc_6_F_2a,f67,110.4,16.9,Ka,Secured,Negative Skewed,Upper,0.0625,Large
+Sc_6_F_2a,f67,185.6,21.6,Er,Assumed,Negative Skewed,Upper,0.007821486,Large
+Sc_6_F_2a,f67,620.3,25,Pr,Assumed,Negative Skewed,Upper,0.319407008,Large
+Sc_6_F_2a,f67,768.7,72.4,Di,Assumed,Negative Skewed,Upper,-0.016880486,Large
+Sc_6_F_2a,f67,916.8,69.9,So,Assumed,Negative Skewed,Upper,-0.090937697,Large
+Sc_6_F_2a,f67,1234.6,41,Gi5,Assumed,Negative Skewed,Upper,0.473731612,Large
+Sc_6_F_2a,f67,2233.9,514.4,Fi,Assumed,Negative Skewed,Upper,0.181394602,Large
+Sc_6_F_2a,f67,2856.3,627.3,Mg,Assumed,Negative Skewed,Mid,-0.205135521,Large
+Sc_6_F_2a,f67,3206.8,555.4,Sb,Assumed,Negative Skewed,Lower,-0.27286389,Large
+Sc_6_F_2a,f67,3672.6,428.3,Hf,Assumed,Negative Skewed,Lower,0.026863085,Large
+Sc_6_F_2a,f67,3903.4,434.5,Wb,Assumed,Negative Skewed,Lower,-0.521984623,Large
+Sc_6_F_2a,f67,4735.8,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_7_F_2,f68,0,0,Hu-1,Assumed,Triangle,Upper,1.061099796,Medium
+Sc_7_F_2,f68,49.1,52.1,Hu,Assumed,Triangle,Upper,-0.016574586,Medium
+Sc_7_F_2,f68,175.8,50,Ka,Assumed,Triangle,Upper,0.393939394,Medium
+Sc_7_F_2,f68,284.7,92.9,Er,Assumed,Triangle,Mid,-0.105359318,Medium
+Sc_7_F_2,f68,613.1,58.3,Pr,Assumed,Triangle,Lower,-0.210271903,Medium
+Sc_7_F_2,f68,778.6,23.5,Di,Assumed,Triangle,Lower,-0.022458629,Medium
+Sc_7_F_2,f68,863.2,21.6,So,Assumed,Triangle,Lower,-0.0239696,Medium
+Sc_7_F_2,f68,1205.3,13.4,Gi5,Assumed,Triangle,Lower,-0.387283237,Medium
+Sc_7_F_2,f68,1239.9,0,Fi,Assumed,Triangle,Lower,0,Medium
+Sc_7_F_2a,f69,0,0,Hu-1,Assumed,Negative Skewed,Upper,1.061099796,Large
+Sc_7_F_2a,f69,49.1,52.1,Hu,Assumed,Negative Skewed,Upper,-0.016574586,Large
+Sc_7_F_2a,f69,175.8,50,Ka,Assumed,Negative Skewed,Upper,0.393939394,Large
+Sc_7_F_2a,f69,284.7,92.9,Er,Assumed,Negative Skewed,Upper,-0.105359318,Large
+Sc_7_F_2a,f69,613.1,58.3,Pr,Assumed,Negative Skewed,Upper,-0.210271903,Large
+Sc_7_F_2a,f69,778.6,23.5,Di,Assumed,Negative Skewed,Upper,-0.022458629,Large
+Sc_7_F_2a,f69,863.2,21.6,So,Assumed,Negative Skewed,Upper,-0.0239696,Large
+Sc_7_F_2a,f69,1205.3,13.4,Gi5,Assumed,Negative Skewed,Upper,0.5183287,Large
+Sc_7_F_2a,f69,2356.5,610.1,Fi,Assumed,Negative Skewed,Mid,-0.240060583,Large
+Sc_7_F_2a,f69,2884.7,483.3,Mg,Assumed,Negative Skewed,Lower,0.216983401,Large
+Sc_7_F_2a,f69,3300.4,573.5,Sb,Assumed,Negative Skewed,Lower,0.197985688,Large
+Sc_7_F_2a,f69,3677.7,648.2,Hf,Assumed,Negative Skewed,Lower,0.130921619,Large
+Sc_7_F_2a,f69,3909.9,678.6,Wb,Assumed,Negative Skewed,Lower,-0.744650499,Large
+Sc_7_F_2a,f69,4821.2,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_7_F_1a,f70,0,0,La,Proven,Semi-Circle,Upper,0.564285714,Large
+Sc_7_F_1a,f70,56,31.6,Gu,Proven,Semi-Circle,Upper,0.413700108,Large
+Sc_7_F_1a,f70,241.4,108.3,Ma,Assumed,Semi-Circle,Upper,0.016775396,Large
+Sc_7_F_1a,f70,348.7,110.1,Hu,Assumed,Semi-Circle,Upper,3.033636364,Large
+Sc_7_F_1a,f70,458.7,443.8,Ka,Assumed,Semi-Circle,Upper,0.164761905,Large
+Sc_7_F_1a,f70,668.7,478.4,Er,Assumed,Semi-Circle,Upper,1.451035782,Large
+Sc_7_F_1a,f70,881.1,786.6,Pr,Assumed,Semi-Circle,Upper,-0.117066291,Large
+Sc_7_F_1a,f70,952,778.3,Di,Assumed,Semi-Circle,Upper,-0.655403593,Large
+Sc_7_F_1a,f70,1324.9,533.9,So,Assumed,Semi-Circle,Upper,-0.005444355,Large
+Sc_7_F_1a,f70,1949.4,530.5,Gi5,Assumed,Semi-Circle,Upper,0.195529354,Large
+Sc_7_F_1a,f70,2356.5,610.1,Fi,Assumed,Semi-Circle,Mid,-0.240060583,Large
+Sc_7_F_1a,f70,2884.7,483.3,Mg,Assumed,Semi-Circle,Lower,0.216983401,Large
+Sc_7_F_1a,f70,3300.4,573.5,Sb,Assumed,Semi-Circle,Lower,0.197985688,Large
+Sc_7_F_1a,f70,3677.7,648.2,Hf,Assumed,Semi-Circle,Lower,0.130921619,Large
+Sc_7_F_1a,f70,3909.9,678.6,Wb,Assumed,Semi-Circle,Lower,-0.744650499,Large
+Sc_7_F_1a,f70,4821.2,0,Gs,Assumed,Semi-Circle,Lower,0,Large
+Sc_7_F_55,f71,0,0,La,Assumed,Triangle,Upper,0.231425091,Small
+Sc_7_F_55,f71,82.1,19,Gu,Assumed,Triangle,Upper,0.621734587,Small
+Sc_7_F_55,f71,177.8,78.5,Ma,Secured,Triangle,Mid,-0.284274194,Small
+Sc_7_F_55,f71,376.2,22.1,Hu,Secured,Triangle,Lower,-0.068336425,Small
+Sc_7_F_55,f71,699.6,0,Ka,Secured,Triangle,Lower,0,Small
+Sc_7_F_55a,f72,0,0,La,Assumed,Semi-Circle,Upper,0.231425091,Large
+Sc_7_F_55a,f72,82.1,19,Gu,Assumed,Semi-Circle,Upper,0.621734587,Large
+Sc_7_F_55a,f72,177.8,78.5,Ma,Secured,Semi-Circle,Upper,-0.284274194,Large
+Sc_7_F_55a,f72,376.2,22.1,Hu,Secured,Semi-Circle,Upper,4.505454545,Large
+Sc_7_F_55a,f72,458.7,393.8,Ka,Secured,Semi-Circle,Upper,-0.03952381,Large
+Sc_7_F_55a,f72,668.7,385.5,Er,Secured,Semi-Circle,Upper,1.61393597,Large
+Sc_7_F_55a,f72,881.1,728.3,Pr,Secured,Semi-Circle,Upper,0.373765867,Large
+Sc_7_F_55a,f72,952,754.8,Di,Secured,Semi-Circle,Upper,-0.650308394,Large
+Sc_7_F_55a,f72,1324.9,512.3,So,Secured,Semi-Circle,Upper,0.007686149,Large
+Sc_7_F_55a,f72,1949.4,517.1,Gi5,Secured,Semi-Circle,Upper,0.228445099,Large
+Sc_7_F_55a,f72,2356.5,610.1,Fi,Secured,Semi-Circle,Mid,-0.240060583,Large
+Sc_7_F_55a,f72,2884.7,483.3,Mg,Secured,Semi-Circle,Lower,0.216983401,Large
+Sc_7_F_55a,f72,3300.4,573.5,Sb,Secured,Semi-Circle,Lower,0.197985688,Large
+Sc_7_F_55a,f72,3677.7,648.2,Hf,Secured,Semi-Circle,Lower,0.130921619,Large
+Sc_7_F_55a,f72,3909.9,678.6,Wb,Secured,Semi-Circle,Lower,-0.744650499,Large
+Sc_7_F_55a,f72,4821.2,0,Gs,Secured,Semi-Circle,Lower,0,Large
+Sc_9_F_2,f73,0,0,Hu,Assumed,Triangle,Upper,1.436325678,Small
+Sc_9_F_2,f73,47.9,68.8,Ka,Assumed,Triangle,Upper,0.555667001,Small
+Sc_9_F_2,f73,147.6,124.2,Er,Assumed,Triangle,Mid,-0.215834119,Small
+Sc_9_F_2,f73,359.8,78.4,Pr,Assumed,Triangle,Lower,0.302325581,Small
+Sc_9_F_2,f73,415.7,95.3,Di,Assumed,Triangle,Lower,-0.220231823,Small
+Sc_9_F_2,f73,510.6,74.4,So,Assumed,Triangle,Lower,-0.166034367,Small
+Sc_9_F_2,f73,958.7,0,Pl,Assumed,Triangle,Lower,0,Small
+Sc_9_F_1a,f74,0,0,Hu,Assumed,Negative Skewed,Upper,1.436325678,Large
+Sc_9_F_1a,f74,47.9,68.8,Ka,Assumed,Negative Skewed,Upper,0.555667001,Large
+Sc_9_F_1a,f74,147.6,124.2,Er,Assumed,Negative Skewed,Upper,-0.215834119,Large
+Sc_9_F_1a,f74,359.8,78.4,Pr,Assumed,Negative Skewed,Upper,0.302325581,Large
+Sc_9_F_1a,f74,415.7,95.3,Di,Assumed,Negative Skewed,Upper,-0.220231823,Large
+Sc_9_F_1a,f74,510.6,74.4,So,Secured,Negative Skewed,Upper,0.339280862,Large
+Sc_9_F_1a,f74,1614.7,449,Gi5,Secured,Negative Skewed,Upper,-0.025682554,Large
+Sc_9_F_1a,f74,2046.9,437.9,Fi,Secured,Negative Skewed,Mid,-0.322801861,Large
+Sc_9_F_1a,f74,2455.2,306.1,Mg,Secured,Negative Skewed,Lower,0.192583732,Large
+Sc_9_F_1a,f74,2789.6,370.5,Sb,Secured,Negative Skewed,Lower,0.03267807,Large
+Sc_9_F_1a,f74,3181.3,383.3,Hf,Secured,Negative Skewed,Lower,-0.308307265,Large
+Sc_9_F_1a,f74,3469,294.6,Wb,Assumed,Negative Skewed,Lower,-0.314810857,Large
+Sc_9_F_1a,f74,4404.8,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_10_F_2,f75,0,0,Hu,Proven,Positive Skewed,Upper,0.172849916,Medium
+Sc_10_F_2,f75,118.6,20.5,Ka,Proven,Positive Skewed,Upper,1.548082967,Medium
+Sc_10_F_2,f75,277.7,266.8,Er,Proven,Positive Skewed,Upper,0.797909408,Medium
+Sc_10_F_2,f75,363.8,335.5,Pr,Secured,Positive Skewed,Mid,-0.651173709,Medium
+Sc_10_F_2,f75,576.8,196.8,Di,Secured,Positive Skewed,Lower,0.332518337,Medium
+Sc_10_F_2,f75,699.5,237.6,So,Secured,Positive Skewed,Lower,-0.059952513,Medium
+Sc_10_F_2,f75,1204.9,207.3,Gi5,Secured,Positive Skewed,Lower,-0.695404227,Medium
+Sc_10_F_2,f75,1503,0,Fi,Secured,Positive Skewed,Lower,0,Medium
+Sc_10_F_1,f76,0,0,Hu,Secured,Negative Skewed,Upper,0.224590164,Large
+Sc_10_F_1,f76,183,41.1,Ka,Secured,Negative Skewed,Upper,0.090347123,Large
+Sc_10_F_1,f76,393.3,60.1,Er,Assumed,Negative Skewed,Upper,0.097381342,Large
+Sc_10_F_1,f76,637.7,83.9,Pr,Assumed,Negative Skewed,Upper,0.446233097,Large
+Sc_10_F_1,f76,793,153.2,Di,Assumed,Negative Skewed,Upper,0.365456821,Large
+Sc_10_F_1,f76,1032.7,240.8,So,Assumed,Negative Skewed,Upper,0.035384827,Large
+Sc_10_F_1,f76,1759,266.5,Gi5,Assumed,Negative Skewed,Upper,0.533707865,Large
+Sc_10_F_1,f76,2043.8,418.5,Fi,Assumed,Negative Skewed,Mid,-0.01510223,Large
+Sc_10_F_1,f76,2474.2,412,Mg,Assumed,Negative Skewed,Mid,-0.134226804,Large
+Sc_10_F_1,f76,2959.2,346.9,Sb,Assumed,Negative Skewed,Lower,-0.098465473,Large
+Sc_10_F_1,f76,3428.4,300.7,Hf,Assumed,Negative Skewed,Lower,-0.26452732,Large
+Sc_10_F_1,f76,3659,239.7,Wb,Assumed,Negative Skewed,Lower,-0.292673993,Large
+Sc_10_F_1,f76,4478,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_10_F_1a,f77,0,0,Hu,Secured,Negative Skewed,Upper,0.172849916,Large
+Sc_10_F_1a,f77,118.6,20.5,Ka,Secured,Negative Skewed,Upper,1.548082967,Large
+Sc_10_F_1a,f77,277.7,266.8,Er,Assumed,Negative Skewed,Upper,0.797909408,Large
+Sc_10_F_1a,f77,363.8,335.5,Pr,Assumed,Negative Skewed,Upper,-0.651173709,Large
+Sc_10_F_1a,f77,576.8,196.8,Di,Assumed,Negative Skewed,Upper,0.332518337,Large
+Sc_10_F_1a,f77,699.5,237.6,So,Assumed,Negative Skewed,Upper,0.138504155,Large
+Sc_10_F_1a,f77,1204.9,307.6,Gi5,Assumed,Negative Skewed,Upper,0.132196925,Large
+Sc_10_F_1a,f77,2043.8,418.5,Fi,Assumed,Negative Skewed,Mid,-0.01510223,Large
+Sc_10_F_1a,f77,2474.2,412,Mg,Assumed,Negative Skewed,Mid,-0.134226804,Large
+Sc_10_F_1a,f77,2959.2,346.9,Sb,Assumed,Negative Skewed,Lower,-0.098465473,Large
+Sc_10_F_1a,f77,3428.4,300.7,Hf,Assumed,Negative Skewed,Lower,-0.26452732,Large
+Sc_10_F_1a,f77,3659,239.7,Wb,Assumed,Negative Skewed,Lower,-0.292673993,Large
+Sc_10_F_1a,f77,4478,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_11_F_2,f78,0,0,Er,Assumed,Overlap,Upper,0.407894737,Small
+Sc_11_F_2,f78,144.4,58.9,Pr,Assumed,Overlap,Mid,-0.248196248,Small
+Sc_11_F_2,f78,213.7,41.7,Di,Assumed,Overlap,Lower,0.115424974,Small
+Sc_11_F_2,f78,309,52.7,So,Assumed,Overlap,Lower,-0.164225615,Small
+Sc_11_F_2,f78,629.9,0,Pl,Assumed,Overlap,Lower,0,Small
+Sc_11_F_1,f79,0,0,Hu-1,Secured,Negative Skewed,Upper,0.582362729,Large
+Sc_11_F_1,f79,60.1,35,Hu,Secured,Negative Skewed,Upper,0.15076661,Large
+Sc_11_F_1,f79,294.9,70.4,Ka,Secured,Negative Skewed,Upper,-0.101920236,Large
+Sc_11_F_1,f79,498,49.7,Er,Secured,Negative Skewed,Upper,0.227051178,Large
+Sc_11_F_1,f79,744.2,105.6,Pr,Secured,Negative Skewed,Upper,0.470718232,Large
+Sc_11_F_1,f79,925.2,190.8,Di,Secured,Negative Skewed,Upper,0.038108108,Large
+Sc_11_F_1,f79,1295.2,204.9,So,Secured,Negative Skewed,Upper,0.048220974,Large
+Sc_11_F_1,f79,1936,235.8,Gi5,Secured,Negative Skewed,Mid,-0.219499479,Large
+Sc_11_F_1,f79,2319.6,151.6,Fi,Secured,Negative Skewed,Lower,0.315041453,Large
+Sc_11_F_1,f79,2572.9,231.4,Mg,Secured,Negative Skewed,Lower,0.036727513,Large
+Sc_11_F_1,f79,3027.6,248.1,Sb,Secured,Negative Skewed,Lower,-0.13148855,Large
+Sc_11_F_1,f79,3551.6,179.2,Hf,Secured,Negative Skewed,Lower,-0.165042439,Large
+Sc_11_F_1,f79,3869.7,126.7,Wb,Secured,Negative Skewed,Lower,-0.233763838,Large
+Sc_11_F_1,f79,4411.7,0,Gs,Secured,Negative Skewed,Lower,0,Large
+Sc_11_F_2a,f80,0,0,Er,Secured,Negative Skewed,Upper,0.407894737,Large
+Sc_11_F_2a,f80,144.4,58.9,Pr,Secured,Negative Skewed,Upper,-0.248196248,Large
+Sc_11_F_2a,f80,213.7,41.7,Di,Secured,Negative Skewed,Upper,0.115424974,Large
+Sc_11_F_2a,f80,309,52.7,So,Secured,Negative Skewed,Upper,0.112538414,Large
+Sc_11_F_2a,f80,1936,235.8,Gi5,Secured,Negative Skewed,Upper,-0.219499479,Large
+Sc_11_F_2a,f80,2319.6,151.6,Fi,Secured,Negative Skewed,Upper,0.315041453,Large
+Sc_11_F_2a,f80,2572.9,231.4,Mg,Secured,Negative Skewed,Mid,0.036727513,Large
+Sc_11_F_2a,f80,3027.6,248.1,Sb,Secured,Negative Skewed,Mid,-0.13148855,Large
+Sc_11_F_2a,f80,3551.6,179.2,Hf,Secured,Negative Skewed,Lower,-0.165042439,Large
+Sc_11_F_2a,f80,3869.7,126.7,Wb,Secured,Negative Skewed,Lower,-0.233763838,Large
+Sc_11_F_2a,f80,4411.7,0,Gs,Secured,Negative Skewed,Lower,0,Large
+Sc_12_F_2,f81,0,0,Di,Secured,Trapezoid,Upper,0.898383372,Small
+Sc_12_F_2,f81,86.6,77.8,So,Secured,Trapezoid,Upper,0.020877378,Small
+Sc_12_F_2,f81,465,85.7,Gi5,Secured,Trapezoid,Mid,-0.35782881,Small
+Sc_12_F_2,f81,704.5,0,Fi,Secured,Trapezoid,Lower,0,Small
+Sc_12_F_222,f82,0,0,La,Secured,Negative Skewed,Upper,0.318181818,Large
+Sc_12_F_222,f82,33,10.5,Gu,Secured,Negative Skewed,Upper,0.04808476,Large
+Sc_12_F_222,f82,155.7,16.4,Ma,Secured,Negative Skewed,Upper,0.076790336,Large
+Sc_12_F_222,f82,271.6,25.3,Hu,Assumed,Negative Skewed,Upper,0.010259179,Large
+Sc_12_F_222,f82,456.8,27.2,Ka,Assumed,Negative Skewed,Upper,0.150423729,Large
+Sc_12_F_222,f82,598.4,48.5,Er,Assumed,Negative Skewed,Upper,0.016483516,Large
+Sc_12_F_222,f82,816.8,52.1,Pr,Assumed,Negative Skewed,Upper,0.326002587,Large
+Sc_12_F_222,f82,971.4,102.5,Di,Assumed,Negative Skewed,Upper,-0.217913708,Large
+Sc_12_F_222,f82,1154.5,62.6,So,Assumed,Negative Skewed,Upper,0.197798476,Large
+Sc_12_F_222,f82,1745,179.4,Gi5,Assumed,Negative Skewed,Upper,0.20487013,Large
+Sc_12_F_222,f82,2361,305.6,Fi,Assumed,Negative Skewed,Mid,-0.491770902,Large
+Sc_12_F_222,f82,2512.9,230.9,Mg,Assumed,Negative Skewed,Lower,0.136382799,Large
+Sc_12_F_222,f82,2987.3,295.6,Sb,Assumed,Negative Skewed,Lower,-0.031873289,Large
+Sc_12_F_222,f82,3498.7,279.3,Hf,Assumed,Negative Skewed,Lower,-0.14374034,Large
+Sc_12_F_222,f82,3757.5,242.1,Wb,Assumed,Negative Skewed,Lower,-0.739010989,Large
+Sc_12_F_222,f82,4085.1,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_12_F_333,f83,0,0,La,Secured,Negative Skewed,Upper,0.19630485,Large
+Sc_12_F_333,f83,86.6,17,Gu,Secured,Negative Skewed,Upper,0.035885167,Large
+Sc_12_F_333,f83,421,29,Ma,Assumed,Negative Skewed,Upper,0.1,Large
+Sc_12_F_333,f83,436,30.5,Hu,Assumed,Negative Skewed,Upper,0.108064516,Large
+Sc_12_F_333,f83,498,37.2,Ka,Assumed,Negative Skewed,Upper,0.112549801,Large
+Sc_12_F_333,f83,598.4,48.5,Er,Assumed,Negative Skewed,Upper,0.016483516,Large
+Sc_12_F_333,f83,816.8,52.1,Pr,Assumed,Negative Skewed,Upper,0.038163001,Large
+Sc_12_F_333,f83,971.4,58,Di,Assumed,Negative Skewed,Upper,0.025122884,Large
+Sc_12_F_333,f83,1154.5,62.6,So,Assumed,Negative Skewed,Upper,0.153090601,Large
+Sc_12_F_333,f83,1745,153,Gi5,Assumed,Negative Skewed,Upper,0.103896104,Large
+Sc_12_F_333,f83,2361,217,Fi,Assumed,Negative Skewed,Upper,0.091507571,Large
+Sc_12_F_333,f83,2512.9,230.9,Mg,Assumed,Negative Skewed,Mid,0.136382799,Large
+Sc_12_F_333,f83,2987.3,295.6,Sb,Assumed,Negative Skewed,Mid,-0.031873289,Large
+Sc_12_F_333,f83,3498.7,279.3,Hf,Assumed,Negative Skewed,Lower,-0.14374034,Large
+Sc_12_F_333,f83,3757.5,242.1,Wb,Assumed,Negative Skewed,Lower,-0.739010989,Large
+Sc_12_F_333,f83,4085.1,0,Gs,Assumed,Negative Skewed,Lower,0,Large
+Sc_12_F_2a,f84,0,0,Di,Secured,Trapezoid,Upper,0.577367206,Small
+Sc_12_F_2a,f84,86.6,50,So,Secured,Trapezoid,Upper,0.094344609,Small
+Sc_12_F_2a,f84,465,85.7,Gi5,Secured,Trapezoid,Mid,-0.35782881,Small
+Sc_12_F_2a,f84,704.5,0,Fi,Secured,Trapezoid,Lower,0,Small
+Sc_12_F_112,f85,0,0,La,Proven,Trapezoid,Upper,0.357142857,Small
+Sc_12_F_112,f85,28,10,Gu,Proven,Trapezoid,Upper,0.016748768,Small
+Sc_12_F_112,f85,129.5,11.7,Ma,Secured,Trapezoid,Upper,0.035738832,Small
+Sc_12_F_112,f85,275,16.9,Hu,Proven,Trapezoid,Mid,-0.211779449,Small
+Sc_12_F_112,f85,354.8,0,Ka,Proven,Trapezoid,Lower,0,Small
+Sc_12_F_113,f86,0,0,La,Proven,Trapezoid,Upper,0.357142857,Small
+Sc_12_F_113,f86,28,10,Gu,Proven,Trapezoid,Upper,0.065217391,Small
+Sc_12_F_113,f86,120,16,Ma,Secured,Trapezoid,Upper,0.006428571,Small
+Sc_12_F_113,f86,260,16.9,Hu,Proven,Trapezoid,Mid,-0.140833333,Small
+Sc_12_F_113,f86,380,0,Ka,Proven,Trapezoid,Lower,0,Small
+Sc_12_F_18,f87,0,0,Er,Secured,Triangle,Upper,2.055655296,Small
+Sc_12_F_18,f87,55.7,114.5,Pr,Secured,Triangle,Mid,-0.291819292,Small
+Sc_12_F_18,f87,219.5,66.7,Di,Secured,Triangle,Lower,-0.320332481,Small
+Sc_12_F_18,f87,375.9,16.6,So,Secured,Triangle,Lower,-0.092893117,Small
+Sc_12_F_18,f87,554.6,0,Gi5,Secured,Triangle,Lower,0,Small
+Sc_12_F_18a,f88,0,0,Er,Secured,Triangle,Upper,2.055655296,Small
+Sc_12_F_18a,f88,55.7,114.5,Pr,Secured,Triangle,Mid,-0.291819292,Small
+Sc_12_F_18a,f88,219.5,66.7,Di,Secured,Triangle,Mid,-0.320332481,Small
+Sc_12_F_18a,f88,375.9,16.6,So,Secured,Triangle,Lower,-0.318618042,Small
+Sc_12_F_18a,f88,428,0,Gi5,Secured,Triangle,Lower,0,Small
+Sc_12_F_112a,f89,0,0,Gi5,Proven,Trapezoid,Upper,0.209193246,Small
+Sc_12_F_112a,f89,106.6,22.3,Er,Proven,Trapezoid,Mid,-0.004588394,Small
+Sc_12_F_112a,f89,477.1,20.6,Pr,Secured,Trapezoid,Lower,-0.138162307,Small
+Sc_12_F_112a,f89,626.2,0,Di,Secured,Trapezoid,Lower,0,Small
+Sc_1_F_9b,f90,140,0,N,Secured,Triangle,Upper,14.88372093,Medium
+Sc_1_F_9b,f90,148.6,128,F,Assumed,Triangle,Mid,-0.065369898,Medium
+Sc_1_F_9b,f90,462.2,107.5,Zo2,Assumed,Triangle,Mid,-0.07295174,Medium
+Sc_1_F_9b,f90,640.4,94.5,Zo8,Assumed,Triangle,Lower,-0.076504481,Medium
+Sc_1_F_9b,f90,1265.2,46.7,Gu,Assumed,Triangle,Lower,-0.06181398,Medium
+Sc_1_F_9b,f90,1438.3,36,Ma,Assumed,Triangle,Lower,-0.069486405,Medium
+Sc_1_F_9b,f90,1570.7,26.8,Hu,Assumed,Triangle,Lower,-0.054738976,Medium
+Sc_1_F_9b,f90,1768,16,Ka,Assumed,Triangle,Lower,-0.070175439,Medium
+Sc_1_F_9b,f90,1882,8,Er,Assumed,Triangle,Lower,-0.068376068,Medium
+Sc_1_F_9b,f90,1999,0,Pr,Assumed,Triangle,Lower,0,Medium
+Sc_1_F_28,f91,65,0,F-2,Assumed,Trapezoid,Upper,4.493506494,Small
+Sc_1_F_28,f91,72.7,34.6,Zo2,Assumed,Trapezoid,Upper,-0.086821705,Small
+Sc_1_F_28,f91,201.7,23.4,Zo8,Assumed,Trapezoid,Upper,-0.0356711,Small
+Sc_1_F_28,f91,367.1,17.5,Gu,Assumed,Trapezoid,Upper,0.063559322,Small
+Sc_1_F_28,f91,485.1,25,Ma,Assumed,Trapezoid,Upper,0.046979866,Small
+Sc_1_F_28,f91,574.5,29.2,Hu,Assumed,Trapezoid,Mid,0.058479532,Small
+Sc_1_F_28,f91,745.5,39.2,Ka,Assumed,Trapezoid,Lower,-2.703448276,Small
+Sc_1_F_28,f91,760,0,Er,Assumed,Trapezoid,Lower,0,Small
+Sc_8_F_10,f92,0,0,Gu,Secured,Triangle,Upper,1.826086957,Small
+Sc_8_F_10,f92,11.5,21,Ma,Secured,Triangle,Upper,0.230101302,Small
+Sc_8_F_10,f92,149.7,52.8,Hu,Secured,Triangle,Mid,-0.320027529,Small
+Sc_8_F_10,f92,295,6.3,Ka,Secured,Triangle,Lower,-0.091703057,Small
+Sc_8_F_10,f92,363.7,0,Er,Secured,Triangle,Lower,0,Small
+Sc_8_F_8,f93,0,0,Hu-1,Assumed,Trapezoid,Upper,1.403508772,Medium
+Sc_8_F_8,f93,114,160,Zo2,Assumed,Trapezoid,Upper,0.124052378,Medium
+Sc_8_F_8,f93,259.1,178,Zo8,Assumed,Trapezoid,Mid,-0.031517335,Medium
+Sc_8_F_8,f93,925.4,157,Gu,Assumed,Trapezoid,Lower,-0.024311183,Medium
+Sc_8_F_8,f93,1048.8,154,Ma,Assumed,Trapezoid,Lower,-0.718336484,Medium
+Sc_8_F_8,f93,1207.5,40,Hu,Assumed,Trapezoid,Lower,-5.333333333,Medium
+Sc_8_F_8,f93,1215,0,Ka,Assumed,Trapezoid,Lower,0,Medium
+Sc_8_F_9,f94,0,0,F,Secured,Trapezoid,Upper,0.141675978,Medium
+Sc_8_F_9,f94,447.5,63.4,Zo2,Secured,Trapezoid,Upper,-0.00240616,Medium
+Sc_8_F_9,f94,863.1,62.4,Zo8,Secured,Trapezoid,Mid,-0.063065977,Medium
+Sc_8_F_9,f94,1172.3,42.9,La,Secured,Trapezoid,Lower,-0.14911366,Medium
+Sc_8_F_9,f94,1460,0,Gu,Secured,Trapezoid,Lower,0,Medium
+Sc_8_F_15,f95,325,0,F,Assumed,Trapezoid,Upper,2.702702703,Small
+Sc_8_F_15,f95,336.1,30,Zo2,Assumed,Trapezoid,Upper,0.009442871,Small
+Sc_8_F_15,f95,547.9,32,Zo8,Assumed,Trapezoid,Mid,-2.644628099,Small
+Sc_8_F_15,f95,560,0,La,Assumed,Trapezoid,Lower,0,Small
+Sc_6_F_8,f96,0,0,F-2,Proven,Triangle,Upper,0.102577591,Medium
+Sc_6_F_8,f96,190.1,19.5,Zo2,Proven,Triangle,Upper,0.178639542,Medium
+Sc_6_F_8,f96,347.4,47.6,Zo8,Proven,Triangle,Upper,0.117030086,Medium
+Sc_6_F_8,f96,709.7,90,Gu,Secured,Triangle,Mid,-0.170157068,Medium
+Sc_6_F_8,f96,862.5,64,Ma,Secured,Triangle,Lower,-0.145454545,Medium
+Sc_6_F_8,f96,945,52,Hu,Proven,Triangle,Lower,-0.097098646,Medium
+Sc_6_F_8,f96,1203.5,26.9,Ka,Proven,Triangle,Lower,-0.086234177,Medium
+Sc_6_F_8,f96,1329.9,16,Er,Proven,Triangle,Lower,-0.103092784,Medium
+Sc_6_F_8,f96,1485.1,0,Pr,Proven,Triangle,Lower,0,Medium
+Sc_12_F_3,f97,0,0,Hu,Proven,Positive Skewed,Upper,4.32183908,Medium
+Sc_12_F_3,f97,26.1,112.8,Ka,Proven,Positive Skewed,Upper,0.871447903,Medium
+Sc_12_F_3,f97,173.9,241.6,Er,Proven,Positive Skewed,Upper,0.20934444,Medium
+Sc_12_F_3,f97,450,299.4,Pr,Secured,Positive Skewed,Mid,-0.561578947,Medium
+Sc_12_F_3,f97,640,192.7,Di,Secured,Positive Skewed,Lower,-0.42,Medium
+Sc_12_F_3,f97,790,129.7,So,Secured,Positive Skewed,Lower,-0.001538462,Medium
+Sc_12_F_3,f97,1050,129.3,Gi5,Assumed,Positive Skewed,Lower,-0.098984772,Medium
+Sc_12_F_3,f97,1247,109.8,Fi,Assumed,Positive Skewed,Lower,-0.471244635,Medium
+Sc_12_F_3,f97,1480,0,Mg,Assumed,Positive Skewed,Lower,0,Medium
+Sc_8_F_2,f98,0,0,Hu-1,Secured,Overlap,Upper,0.053333333,Medium
+Sc_8_F_2,f98,7.5,0.4,Hu,Secured,Overlap,Upper,0.529607452,Medium
+Sc_8_F_2,f98,157.8,80,Ka,Secured,Overlap,Mid,-0.254270957,Medium
+Sc_8_F_2,f98,409.5,16,Er,Secured,Overlap,Lower,0.009606148,Medium
+Sc_8_F_2,f98,617.7,18,Pr,Secured,Overlap,Lower,0.428954424,Medium
+Sc_8_F_2,f98,692.3,50,Di,Secured,Overlap,Lower,0.190763052,Medium
+Sc_8_F_2,f98,791.9,69,So,Secured,Overlap,Lower,-0.159685258,Medium
+Sc_8_F_2,f98,1224,0,Pl,Secured,Overlap,Lower,0,Medium
+SC_F_Md,f99,0,0,La,Assumed,Trapezoid,Upper,0,Medium
+SC_F_Md,f99,236.9545,776.5687,Gu,Assumed,Trapezoid,Upper,3.277290366,Medium
+SC_F_Md,f99,398.7748,814.7771,Ma,Secured,Trapezoid,Mid,0.236116235,Medium
+SC_F_Md,f99,622.5029,805.5176,Hu,Proven,Trapezoid,Mid,-0.041387291,Medium
+SC_F_Md,f99,1012.0451,752.2094,Ka,Secured,Trapezoid,Mid,-0.136848331,Medium
+SC_F_Md,f99,1410.1061,703.0227,Er,Assumed,Trapezoid,Lower,-0.123565735,Medium
+SC_F_Md,f99,1750,0,Pr,Assumed,Trapezoid,Lower,0,Medium
