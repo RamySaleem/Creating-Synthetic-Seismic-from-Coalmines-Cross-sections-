@@ -1,0 +1,29 @@
+﻿HorizonName,Lithology,Colour,FormationName
+T,claystone,Silver,Horst
+Q,claystone,SlateGray,Horst
+Q-1,claystone,gray,Horst
+N,Rhyolite tuff,r,Horst
+F,sandstone with siltstones ,hotpink,Horst
+F-2,Rhyolite tuff,Salmon,Horst
+Zo2,Rhyolite tuff,FireBrick,Essen
+Zo8,Rhyolite tuff,r,Essen
+La,coarse sandstone,SandyBrown,Essen
+Gu,coarse sandstone,y,Essen
+Ma,sandstone with siltstones ,DeepPink,Essen
+Hu-1,sandstone with siltstones ,pink,Essen
+Hu,sandstone with siltstones ,MediumVioletRed,Essen
+Ka,sandstone with siltstones ,LightCoral,Bochum
+Er,Rhyolite tuff,r,Bochum
+Pr,Rhyolite tuff,DarkRed,Bochum
+Di,Rhyolite tuff,r,Bochum
+So,sandstone with siltstones ,pink,Bochum
+Pl,sandstone with siltstones ,pink,Witten
+Gi5,Rhyolite tuff,r,Witten
+Fi,coarse sandstone,y,Witten
+Ge1,sandstone with siltstones ,pink,Witten
+Kr-2,coarse sandstone,y,Witten
+Mg,claystone,DimGray,Witten
+Sb,Rhyolite tuff,r,Sprockhovel
+Hf,claystone,RosyBrown,Sprockhovel
+Wb,claystone,DarkCyan,Kasberg
+Gs,coarse sandstone,y,Kasberg
